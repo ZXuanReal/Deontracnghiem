@@ -1,0 +1,3124 @@
+Nguồn tài liệu: [BUỔI 1] bài. Dược lý học đại cương .pdf
+
+Tổng số câu: 40 câu.
+
+Hình thức: Trắc nghiệm 4 lựa chọn A, B, C, D.
+
+
+
+PHẦN I. NHẬN BIẾT (15 CÂU)
+
+
+
+Câu 1. Theo định nghĩa, Dược động học (Pharmacokinetics) là quá trình nghiên cứu về:
+
+A. Tác động của cơ thể đối với thuốc hay số phận của thuốc trong cơ thể.
+
+B. Tác động của thuốc đối với cơ thể sinh vật.
+
+C. Cơ chế tác dụng của thuốc tại các thụ thể.
+
+D. Các phản ứng có hại và độc tính của thuốc.
+
+Nguồn: Dược động học – Trang 6
+
+
+
+Câu 2. Quá trình Dược động học bao gồm các giai đoạn nào sau đây?
+
+A. Hấp thu, phân bố, chuyển hóa, thải trừ (ADME).
+
+B. Hấp thu, gắn kết thụ thể, chuyển hóa, đào thải.
+
+C. Hấp thu, phân bố, tác dụng dược lý, thải trừ.
+
+D. Hấp thu, chuyển hóa qua gan, tác dụng phụ, đào thải.
+
+Nguồn: Dược động học – Trang 6
+
+
+
+Câu 3. Trong sự vận chuyển thuốc qua màng tế bào, đặc điểm nào sau đây thuộc về "Vận chuyển tích cực/chủ động"?
+
+A. Đi từ nơi có nồng độ cao đến nơi có nồng độ thấp.
+
+B. Không cần tiêu tốn năng lượng.
+
+C. Cần năng lượng và có thể đi ngược chiều bậc thang nồng độ.
+
+D. Chỉ tuỳ thuộc vào tính chất lý hóa của màng và của thuốc.
+
+Nguồn: Vận chuyển thuốc qua màng tế bào – Trang 12, 13
+
+
+
+Câu 4. Thuốc ở trong máu chủ yếu kết hợp với loại protein huyết tương nào để tạo thành dạng dự trữ?
+
+A. Globulin.
+
+B. Albumin.
+
+C. Fibrinogen.
+
+D. Lipoprotein.
+
+Nguồn: Quá trình phân bố – Trang 22
+
+
+
+Câu 5. Thông số dược động học nào phản ánh tỷ lệ phần trăm lượng thuốc vào được tuần hoàn chung ở dạng còn hoạt tính so với liều dùng?
+
+A. Sinh khả dụng (F).
+
+B. Thể tích phân bố (Vd).
+
+C. Độ thanh thải (Cl).
+
+D. Thời gian bán thải (t1/2).
+
+Nguồn: Sinh khả dụng – Trang 21
+
+
+
+Câu 6. Cơ quan nào đóng vai trò quan trọng nhất trong quá trình chuyển hóa thuốc trong cơ thể?
+
+A. Phổi.
+
+B. Thận.
+
+C. Gan.
+
+D. Ruột.
+
+Nguồn: Gan - Chuyển hóa – Trang 25
+
+
+
+Câu 7. Thời gian bán thải (t1/2) của thuốc được định nghĩa là:
+
+A. Thời gian cần thiết để thuốc hấp thu hoàn toàn vào tuần hoàn.
+
+B. Thời gian cần để nồng độ thuốc trong huyết tương giảm còn một nửa.
+
+C. Thời gian cần thiết để cơ quan bài tiết lọc sạch thuốc khỏi huyết tương.
+
+D. Thời gian thuốc bắt đầu phát huy tác dụng lâm sàng.
+
+Nguồn: Thông số dược động – Trang 30
+
+
+
+Câu 8. Đa số các thuốc tác dụng đặc hiệu thông qua cơ chế nào?
+
+A. Hấp phụ bề mặt tế bào.
+
+B. Tạo phức chelat.
+
+C. Trung hòa acid - base.
+
+D. Gắn kết vào Receptor (thụ thể).
+
+Nguồn: Cơ chế tác dụng của thuốc – Trang 31, 35
+
+
+
+Câu 9. Trong tương tác dược lực học, chất đối kháng (antagonist) có đặc điểm gì?
+
+A. Chiếm giữ thụ thể và kích hoạt chúng tối đa.
+
+B. Không gắn vào thụ thể mà chỉ phá hủy chất chủ vận.
+
+C. Chiếm giữ thụ thể nhưng không kích hoạt chúng, ngăn cản chất nội sinh.
+
+D. Gắn vào kênh ion để thúc đẩy vận chuyển ion.
+
+Nguồn: Cơ chế tác dụng của thuốc qua R – Trang 33, 44
+
+
+
+Câu 10. Ở bệnh nhân dị ứng thuốc tuýp 1 (phản ứng tức thì), cơ chế bệnh sinh liên quan đến loại kháng thể nào?
+
+A. Kháng thể IgA.
+
+B. Kháng thể IgE.
+
+C. Kháng thể IgG.
+
+D. Kháng thể IgM.
+
+Nguồn: Dung nạp - Lệ thuộc - Dị ứng thuốc – Trang 49
+
+
+
+Câu 11. Theo nguyên tắc thử nghiệm độc tính cấp, LD50 (Lethal Dose 50%) có ý nghĩa là gì?
+
+A. Liều tối đa an toàn cho 50% thú vật thử nghiệm.
+
+B. Liều lượng gây xáo trộn chức năng gan thận trên 50% thú vật.
+
+C. Liều tối thiểu gây độc tính mạn trên 50% thú vật.
+
+D. Liều gây chết 50% số thú vật thử nghiệm.
+
+Nguồn: Thử nghiệm độc tính cấp – Trang 58
+
+
+
+Câu 12. Theo phân loại của FDA (2015), quy tắc ghi nhãn thuốc (PLLR) liên quan đến những đối tượng nào?
+
+A. Thai kỳ, cho con bú, người cao tuổi.
+
+B. Thai kỳ, trẻ sơ sinh, trẻ nhỏ.
+
+C. Thai kỳ, cho con bú, nam nữ có khả năng sinh sản.
+
+D. Trẻ em dưới 2 tuổi, phụ nữ có thai, người suy gan.
+
+Nguồn: Phân loại thuốc trên thai kỳ – Trang 62
+
+
+
+Câu 13. Thuốc nào sau đây có nguồn gốc từ khoáng vật, kim loại?
+
+A. Morphin.
+
+B. Insulin.
+
+C. Kaolin.
+
+D. Quinin.
+
+Nguồn: Nguồn gốc thuốc – Trang 5
+
+
+
+Câu 14. Đường đưa thuốc nào sau đây thường có Sinh khả dụng (F) xấp xỉ bằng 1?
+
+A. Uống (PO).
+
+B. Đặt trực tràng (PR).
+
+C. Tiêm dưới da (SC).
+
+D. Tiêm tĩnh mạch (IV).
+
+Nguồn: Sinh khả dụng – Trang 21
+
+
+
+Câu 15. Tác dụng không mong muốn của thuốc (ADR) có đặc điểm nào dưới đây?
+
+A. Luôn luôn gây ra phản ứng độc hại nguy hiểm đến tính mạng.
+
+B. Không có ý nghĩa điều trị, xảy ra ở liều điều trị.
+
+C. Chỉ xảy ra khi dùng thuốc quá liều chỉ định.
+
+D. Chỉ gây ra các triệu chứng nhẹ như chóng mặt, buồn nôn.
+
+Nguồn: Các kiểu tác dụng của thuốc – Trang 37
+
+
+
+PHẦN II. THÔNG HIỂU (10 CÂU)
+
+
+
+Câu 16. Vì sao đường ngậm dưới lưỡi lại có ưu điểm vượt trội hơn đường uống đối với một số loại thuốc?
+
+A. Vì diện tích hấp thu ở dưới lưỡi lớn hơn ở ruột non.
+
+B. Vì thuốc không bị dịch vị phá hủy và không bị chuyển hóa lần đầu qua gan.
+
+C. Vì môi trường pH ở miệng giúp thuốc ion hóa hoàn toàn.
+
+D. Vì hệ thống enzym tiêu hóa ở miệng phong phú hơn dạ dày.
+
+Nguồn: Hấp thu qua đường tiêu hóa – Trang 16
+
+
+
+Câu 17. Mục đích chính của quá trình chuyển hóa thuốc tại gan là gì?
+
+A. Chuyển thuốc từ dạng khó tan trong nước thành dạng phân cực, dễ thải trừ.
+
+B. Chuyển thuốc từ dạng tan trong nước thành dạng tan trong lipid để dự trữ.
+
+C. Gắn kết thuốc với protein huyết tương để kéo dài tác dụng.
+
+D. Tái hấp thu thuốc trở lại vòng tuần hoàn chung.
+
+Nguồn: Chuyển hóa – Gan – Trang 25
+
+
+
+Câu 18. Một thuốc có Thể tích phân bố (Vd) rất lớn mang ý nghĩa lâm sàng gì?
+
+A. Thuốc tập trung chủ yếu trong huyết tương, ít đi vào mô.
+
+B. Thuốc được chuyển hóa và thải trừ rất nhanh ra khỏi cơ thể.
+
+C. Thuốc gắn kết nhiều vào các mô trong cơ thể.
+
+D. Thuốc không có khả năng vượt qua hàng rào máu não.
+
+Nguồn: Thể tích phân bố – Trang 24
+
+
+
+Câu 19. Trong trường hợp ngộ độc các chất hơi hoặc độc tố đường tiêu hóa, việc sử dụng than hoạt tính dựa trên cơ chế tác dụng nào?
+
+A. Cạnh tranh tại thụ thể (receptor) đặc hiệu.
+
+B. Tác dụng không qua thụ thể nhờ tính hấp phụ.
+
+C. Tạo phức chelat với độc tố.
+
+D. Hoạt hóa enzym chuyển hóa độc tố ở gan.
+
+Nguồn: Cơ chế tác dụng không qua R – Trang 34
+
+
+
+Câu 20. Để tăng thải trừ một thuốc có bản chất là base yếu (như amphetamin) qua đường tiết niệu, bác sĩ cần làm gì dựa trên nguyên lý khuếch tán thụ động ở ống thận?
+
+A. Làm kiềm hóa nước tiểu.
+
+B. Làm acid hóa nước tiểu.
+
+C. Giảm lưu lượng tuần hoàn qua thận.
+
+D. Ức chế quá trình lọc ở cầu thận.
+
+Nguồn: Thải trừ qua thận – Trang 27
+
+
+
+Câu 21. Sự khác biệt cơ bản giữa "Quen thuốc" (habituation) và "Nghiện" (addiction) là gì?
+
+A. Quen thuốc chỉ là lệ thuộc thể chất, nghiện là lệ thuộc tâm lý.
+
+B. Quen thuốc là mức độ nhẹ chỉ lệ thuộc tâm lý, nghiện là mức độ nặng gồm cả lệ thuộc tâm lý và thể chất.
+
+C. Quen thuốc gây ra hội chứng cai thuốc nghiêm trọng hơn nghiện.
+
+D. Quen thuốc chỉ xảy ra do dung nạp bẩm sinh, không phải do dùng lặp lại.
+
+Nguồn: Lệ thuộc thuốc – Trang 48
+
+
+
+Câu 22. Hiện tượng tương tác hiệp lực bội tăng (Synergism) được định nghĩa theo công thức nào dưới đây?
+
+A. 1 + 1 < 2
+
+B. 1 + 1 = 2
+
+C. 1 + 1 > 2
+
+D. 1 + 1 = 0
+
+Nguồn: Tương tác dược lực học – Trang 43
+
+
+
+Câu 23. Tại sao các thuốc nhuận tẩy, thuốc chống nôn, hoặc antacid cần được uống cách xa bữa ăn (trước 1 giờ hoặc sau ăn 1-2 giờ)?
+
+A. Để thuốc bị thức ăn làm giảm hấp thu, tránh độc tính.
+
+B. Để kéo dài thời gian lưu của thuốc trong dạ dày.
+
+C. Để tăng cường sự phân hủy của dịch vị đối với thuốc.
+
+D. Để thuốc phát huy tác dụng đặc biệt tại chỗ và không cản trở tiêu hóa.
+
+Nguồn: Thời gian dùng thuốc hợp lý – Trang 42
+
+
+
+Câu 24. Hiện tượng "chu kỳ gan ruột" của một số thuốc (như morphin, tetracyclin) có tác động như thế nào đến dược động học của thuốc đó?
+
+A. Làm tăng tốc độ thải trừ thuốc qua thận.
+
+B. Làm giảm sinh khả dụng của thuốc xuống mức rất thấp.
+
+C. Làm thuốc tái hấp thu vào tuần hoàn, tích lũy và kéo dài thời gian tác dụng.
+
+D. Làm bất hoạt thuốc ngay lập tức bởi hệ vi khuẩn ruột.
+
+Nguồn: Thải trừ qua phân – Trang 28
+
+
+
+Câu 25. Thông thường, sau bao nhiêu lần thời gian bán thải (t1/2) thì nồng độ thuốc trong máu sẽ đạt trạng thái ổn định (Css)?
+
+A. Sau 1 lần t1/2.
+
+B. Sau 3 lần t1/2.
+
+C. Sau 5 lần t1/2.
+
+D. Sau 7 lần t1/2.
+
+Nguồn: Thời gian bán thải – Trang 30
+
+
+
+PHẦN III. VẬN DỤNG (10 CÂU)
+
+
+
+Câu 26. Một bệnh nhân nam có tiền sử thiếu hụt enzym G6PD theo di truyền. Dựa trên kiến thức dược động học, bác sĩ KHÔNG NÊN kê đơn nhóm thuốc nào sau đây để tránh nguy cơ thiếu máu tan huyết?
+
+A. Penicillin.
+
+B. Sulfamid.
+
+C. Insulin.
+
+D. Kháng histamin H1.
+
+Nguồn: Yếu tố làm thay đổi chuyển hóa thuốc – Trang 26
+
+
+
+Câu 27. Một loại thuốc mới được bào chế dưới dạng dung dịch tan trong dầu. Điều dưỡng viên được chỉ định tiêm thuốc này cho bệnh nhân. Đường tiêm nào sau đây là CHỐNG CHỈ ĐỊNH tuyệt đối?
+
+A. Tiêm bắp (IM).
+
+B. Tiêm tĩnh mạch (IV).
+
+C. Tiêm dưới da (SC).
+
+D. Tiêm bắp sâu.
+
+Nguồn: Hấp thu qua đường tiêm – Trang 18
+
+
+
+Câu 28. Một bệnh nhi nặng 15kg, cao 90cm, cần dùng một loại thuốc. Biết liều thông thường của người lớn là 250mg. Tra biểu đồ West Nomogram, diện tích bề mặt cơ thể (BSA) của trẻ là 0,61 m2. Tính liều dùng cho trẻ em này (làm tròn số).
+
+A. Khoảng 45 mg.
+
+B. Khoảng 60 mg.
+
+C. Khoảng 88 mg.
+
+D. Khoảng 125 mg.
+
+Nguồn: Tính liều theo diện tích cơ thể – Trang 54
+
+
+
+Câu 29. Bệnh nhân đang điều trị nhiễm khuẩn bằng kháng sinh Tetracyclin, đồng thời có thói quen uống sữa tươi bổ sung Canxi mỗi ngày. Bác sĩ khuyên bệnh nhân không uống thuốc cùng sữa để tránh tương tác dược động học ở giai đoạn nào?
+
+A. Quá trình hấp thu.
+
+B. Quá trình phân bố.
+
+C. Quá trình chuyển hóa.
+
+D. Quá trình thải trừ.
+
+Nguồn: Tương tác dược động học – Trang 40
+
+
+
+Câu 30. Một thuốc X có độc tính thấp và thời gian bán thải (t1/2) là 4 giờ (ngắn hơn 6 giờ). Chế độ liều dùng nào sau đây là hợp lý nhất đối với thuốc X?
+
+A. Dùng 1 liều duy nhất trong ngày.
+
+B. Tiêm truyền tĩnh mạch liên tục 24h.
+
+C. Dùng liều cao, chia khoảng cách theo thời gian thích hợp.
+
+D. Dùng khoảng cách dùng thuốc chính xác bằng 24 giờ.
+
+Nguồn: Thời gian bán thải – Trang 30
+
+
+
+Câu 31. Khi kê đơn đồng thời Sulfamid hạ đường huyết và Aspirin (thuốc có ái lực mạnh với protein huyết tương), điều gì dễ xảy ra đối với Sulfamid?
+
+A. Sulfamid bị tăng chuyển hóa qua gan.
+
+B. Sulfamid bị Aspirin đẩy ra khỏi protein, làm tăng tỷ lệ dạng tự do, tăng tác dụng/độc tính.
+
+C. Sulfamid gắn kết chặt hơn vào protein, làm mất hoàn toàn tác dụng hạ đường huyết.
+
+D. Sulfamid cản trở sự hấp thu của Aspirin tại dạ dày.
+
+Nguồn: Phân bố thuốc – Trang 22
+
+
+
+Câu 32. Bệnh nhân viêm loét dạ dày được kê đơn dùng Sucralfat và nhôm hydroxyd (antacid). Cơ chế tác dụng chính của các thuốc này là gì?
+
+A. Tác dụng toàn thân qua thụ thể enzym.
+
+B. Tác dụng tại chỗ để bao niêm mạc và trung hòa acid dịch vị (không đặc hiệu).
+
+C. Cạnh tranh thụ thể histamin H2 tại tế bào thành dạ dày.
+
+D. Tác dụng trên thụ thể là kênh ion canxi.
+
+Nguồn: Các kiểu tác dụng của thuốc / Cơ chế không qua R – Trang 34, 36
+
+
+
+Câu 33. Một bệnh nhân dùng thuốc trị tăng huyết áp có thời gian bán thải (t1/2) là 12 giờ. Nếu bệnh nhân dùng thuốc đều đặn theo phác đồ, mất khoảng bao nhiêu thời gian để nồng độ thuốc trong máu đạt trạng thái ổn định (Css)?
+
+A. Khoảng 12 giờ.
+
+B. Khoảng 24 giờ.
+
+C. Khoảng 60 giờ.
+
+D. Khoảng 84 giờ.
+
+Nguồn: Thời gian bán thải – Trang 30
+
+
+
+Câu 34. Một loại thuốc A bị chuyển hóa mạnh qua hiệu ứng vượt qua lần đầu ở gan (chuyển hóa lần đầu) nếu dùng đường uống, làm sinh khả dụng rất thấp. Lựa chọn đường dùng nào sau đây là TỐT NHẤT để tránh hoàn toàn vòng tuần hoàn cửa gan và hấp thu nhanh chóng?
+
+A. Đặt trực tràng sâu.
+
+B. Uống lúc đói.
+
+C. Tiêm tĩnh mạch.
+
+D. Uống dạng viên bao tan trong ruột.
+
+Nguồn: Các đường hấp thu thuốc – Trang 16, 17, 18
+
+
+
+Câu 35. Một bệnh nhân bị suy dinh dưỡng nặng (giảm protein huyết tương đáng kể). Khi sử dụng một loại thuốc có đặc tính gắn kết cao với protein huyết tương, bác sĩ cần lưu ý điều gì?
+
+A. Cần tăng liều thuốc để bù trừ lượng protein bị thiếu.
+
+B. Cần hiệu chỉnh giảm liều vì tỷ lệ thuốc ở dạng tự do tăng cao, dễ gây độc.
+
+C. Không cần thay đổi liều lượng vì suy dinh dưỡng không ảnh hưởng dược động học.
+
+D. Cần dùng kèm các thuốc cảm ứng enzym gan.
+
+Nguồn: Phân bố thuốc – Trang 22
+
+
+
+PHẦN IV. VẬN DỤNG CAO (5 CÂU)
+
+
+
+Câu 36. Probenecid và Penicillin đều là các acid yếu và được bài tiết tích cực qua ống lượn gần ở thận bằng cùng một cơ chế vận chuyển anion. Khi dùng phối hợp hai thuốc này, nhận định nào sau đây là phân tích chính xác nhất về tương tác thuốc?
+
+A. Probenecid cảm ứng enzym gan làm Penicillin phân hủy nhanh hơn.
+
+B. Hai thuốc phản ứng hóa học với nhau tạo phức chelat không hấp thu được.
+
+C. Probenecid cạnh tranh bài tiết ở ống thận với Penicillin, làm giảm thải trừ và tăng nồng độ/thời gian tác dụng của Penicillin.
+
+D. Penicillin đối kháng dược lực học với Probenecid tại thụ thể đặc hiệu ở thận.
+
+Nguồn: Thải trừ thuốc / Tương tác dược động học – Trang 27, 40
+
+
+
+Câu 37. Thuốc Digoxin được biết đến là có Thể tích phân bố (Vd) rất lớn (ví dụ khoảng 500L trên người 60kg). Nếu một bệnh nhân bị ngộ độc cấp tính Digoxin và được đưa vào viện, phương pháp lọc máu ngoại sinh (chạy thận nhân tạo, chỉ lọc sạch huyết tương) sẽ có hiệu quả như thế nào trong việc giải độc?
+
+A. Rất hiệu quả vì thuốc phân bố đều trong toàn bộ nước cơ thể.
+
+B. Kém hiệu quả vì phần lớn thuốc đang gắn kết sâu trong các mô, nồng độ trong huyết tương rất thấp.
+
+C. Rất hiệu quả vì lọc máu sẽ thúc đẩy thuốc bong ra khỏi thụ thể.
+
+D. Kém hiệu quả vì Digoxin chủ yếu bài tiết qua đường mật.
+
+Nguồn: Thể tích phân bố – Trang 24
+
+
+
+Câu 38. Bác sĩ kê đơn kết hợp Trimethoprim và Sulfonamid (tạo thành Cotrimoxazol) trong điều trị nhiễm khuẩn. Quá trình phối hợp này dựa trên cơ sở tương tác dược lực học nào và mang lại lợi ích gì?
+
+A. Tương tác đối kháng chức năng sinh lý để giảm độc tính của Sulfonamid.
+
+B. Tương tác đồng vận một phần, giúp vi khuẩn không bị lờn thuốc.
+
+C. Tương tác hiệp lực bổ sung (1 + 1 = 2) để kéo dài thời gian bán thải.
+
+D. Tương tác hiệp lực bội tăng (1 + 1 > 2) giúp tăng hiệu quả diệt khuẩn mạnh mẽ hơn tổng tác dụng của từng thuốc đơn lẻ.
+
+Nguồn: Tương tác dược lực học – Trang 43, 45
+
+
+
+Câu 39. Phân tích về sự lệ thuộc thuốc: Một bệnh nhân sử dụng thuốc an thần liên tục trong nhiều tháng, sau đó tự ý dừng thuốc đột ngột và xuất hiện các triệu chứng run rẩy, vã mồ hôi, nhịp tim nhanh và mất ngủ trầm trọng. Hiện tượng này chứng tỏ bệnh nhân đang ở trạng thái nào?
+
+A. Chỉ bị lệ thuộc tâm lý (quen thuốc).
+
+B. Đang gặp phản ứng dị ứng thuốc tuýp 4.
+
+C. Bị nghiện thuốc do lệ thuộc thể chất và xuất hiện hội chứng cai thuốc.
+
+D. Bị dung nạp miễn dịch nhanh đối với thuốc an thần.
+
+Nguồn: Lệ thuộc thuốc – Trang 48
+
+
+
+Câu 40. Một bệnh nhân dùng kháng sinh Amoxicillin, vài ngày sau xuất hiện phản ứng tán huyết (vỡ hồng cầu), nguyên nhân do kháng thể IgG kết hợp với kháng nguyên bám trên bề mặt tế bào hồng cầu, hoạt hóa bổ thể và phá hủy tế bào. Theo phân loại Gell & Coombs, đây là phản ứng dị ứng thuốc tuýp mấy?
+
+A. Tuýp 1 (Phản ứng tức thì).
+
+B. Tuýp 2 (Kháng thể trung gian / Độc tế bào).
+
+C. Tuýp 3 (Phức hợp miễn dịch).
+
+D. Tuýp 4 (Phản ứng quá mẫn chậm).
+
+Nguồn: Dung nạp - Lệ thuộc - Dị ứng thuốc – Trang 49
+
+
+
+
+
+ĐÁP ÁN VÀ GIẢI THÍCH CHI TIẾT
+
+
+
+Câu 01: A
+
+Giải thích: Dược động học (Pharmacokinetics) nghiên cứu tác động của cơ thể đối với thuốc hay số phận của thuốc trong cơ thể (slide 6).
+
+Nguồn: Dược động học – Trang 6
+
+Câu 02: A
+
+Giải thích: Quá trình dược động học bao gồm hấp thu (Absorption), phân bố (Distribution), chuyển hóa (Metabolism), thải trừ (Elimination/Excretion) - viết tắt ADME.
+
+Nguồn: Dược động học – Trang 6
+
+Câu 03: C
+
+Giải thích: Vận chuyển tích cực/chủ động cần năng lượng, đi ngược chiều bậc thang nồng độ/áp suất, nhờ chất vận chuyển đặc hiệu (slide 12, 13).
+
+Nguồn: Vận chuyển thuốc qua màng tế bào – Trang 12, 13
+
+Câu 04: B
+
+Giải thích: Khi vào máu, thuốc kết hợp chủ yếu với protein huyết tương là albumin tạo thành dạng dự trữ (slide 22).
+
+Nguồn: Quá trình phân bố – Trang 22
+
+Câu 05: A
+
+Giải thích: Sinh khả dụng (F) là tỷ lệ phần trăm lượng thuốc vào được tuần hoàn chung ở dạng còn hoạt tính so với liều dùng (slide 21).
+
+Nguồn: Sinh khả dụng – Trang 21
+
+Câu 06: C
+
+Giải thích: Gan là cơ quan chuyển hóa thuốc chính với hệ thống enzym phong phú như CYP450 (slide 25).
+
+Nguồn: Gan - Chuyển hóa – Trang 25
+
+Câu 07: B
+
+Giải thích: Thời gian bán thải (t1/2) là thời gian cần để nồng độ thuốc trong huyết tương giảm còn một nửa (slide 30).
+
+Nguồn: Thông số dược động – Trang 30
+
+Câu 08: D
+
+Giải thích: Cơ chế tác dụng đặc hiệu của thuốc chủ yếu là qua receptor (thụ thể) (slide 31, 35).
+
+Nguồn: Cơ chế tác dụng của thuốc – Trang 31, 35
+
+Câu 09: C
+
+Giải thích: Chất đối kháng (antagonists) chiếm giữ thụ thể nhưng không kích hoạt chúng, qua đó ngăn chặn sự hoạt hóa của chất nội sinh/chất chủ vận (slide 33, 44).
+
+Nguồn: Cơ chế tác dụng của thuốc qua R – Trang 33, 44
+
+Câu 10: B
+
+Giải thích: Dị ứng tuýp 1 (phản ứng tức thì) liên quan đến kháng nguyên gắn kết với kháng thể IgE (slide 49).
+
+Nguồn: Dung nạp - Lệ thuộc - Dị ứng thuốc – Trang 49
+
+Câu 11: D
+
+Giải thích: LD50 (Lethal Dose 50%) được định nghĩa là liều gây chết 50% số thú vật thử nghiệm (slide 58).
+
+Nguồn: Thử nghiệm độc tính cấp – Trang 58
+
+Câu 12: C
+
+Giải thích: Quy tắc PLLR của FDA (2015) ghi nhãn thuốc liên quan đến Thai kỳ, Cho con bú, và Nam nữ có khả năng sinh sản (slide 62).
+
+Nguồn: Phân loại thuốc trên thai kỳ – Trang 62
+
+Câu 13: C
+
+Giải thích: Theo slide 5, Kaolin (cùng thủy ngân, muối vàng) có nguồn gốc từ khoáng vật. Quinin/Morphin từ thực vật, Insulin từ động vật.
+
+Nguồn: Nguồn gốc thuốc – Trang 5
+
+Câu 14: D
+
+Giải thích: Đường tiêm tĩnh mạch (IV) đưa thuốc trực tiếp vào máu nên sinh khả dụng F xấp xỉ bằng 1 (100%) (slide 21).
+
+Nguồn: Sinh khả dụng – Trang 21
+
+Câu 15: B
+
+Giải thích: Tác dụng không mong muốn (ADR) không có ý nghĩa điều trị và xảy ra ngay ở liều điều trị thông thường (slide 37).
+
+Nguồn: Các kiểu tác dụng của thuốc – Trang 37
+
+Câu 16: B
+
+Giải thích: Thuốc ngậm dưới lưỡi hấp thu qua niêm mạc miệng thẳng vào tĩnh mạch cổ vào tuần hoàn, không bị dịch vị phá hủy và tránh được vòng tuần hoàn chuyển hóa qua gan (slide 16).
+
+Nguồn: Hấp thu qua đường tiêu hóa – Trang 16
+
+Câu 17: A
+
+Giải thích: Mục đích của chuyển hóa là thay đổi tính tan của thuốc, biến thuốc tan trong lipid thành dạng phân cực (tan trong nước) để dễ dàng thải trừ ra khỏi cơ thể (slide 25).
+
+Nguồn: Chuyển hóa – Gan – Trang 25
+
+Câu 18: C
+
+Giải thích: Thể tích phân bố Vd càng lớn chứng tỏ thuốc gắn càng nhiều vào các mô, nồng độ trong huyết tương càng nhỏ (slide 24).
+
+Nguồn: Thể tích phân bố – Trang 24
+
+Câu 19: B
+
+Giải thích: Than hoạt tính hoạt động theo cơ chế không qua receptor nhờ tính hấp phụ bề mặt, giúp hấp phụ các độc tố (slide 34).
+
+Nguồn: Cơ chế tác dụng không qua R – Trang 34
+
+Câu 20: B
+
+Giải thích: Ống thận có cơ chế khuếch tán thụ động phụ thuộc pH. Để tăng thải thuốc là base yếu (amphetamin), cần làm acid hóa nước tiểu để thuốc phân ly thành dạng ion, khó tái hấp thu (slide 27).
+
+Nguồn: Thải trừ qua thận – Trang 27
+
+Câu 21: B
+
+Giải thích: Quen thuốc là mức độ nhẹ của lệ thuộc (lệ thuộc tâm lý). Nghiện là mức độ nặng gồm cả lệ thuộc tâm lý và thể chất có kèm hội chứng cai thuốc (slide 48).
+
+Nguồn: Lệ thuộc thuốc – Trang 48
+
+Câu 22: C
+
+Giải thích: Tương tác hiệp lực bội tăng (Synergism) được ký hiệu bằng công thức 1 + 1 > 2, tạo ra hiệu ứng mạnh hơn tổng tác dụng đơn lẻ (slide 43).
+
+Nguồn: Tương tác dược lực học – Trang 43
+
+Câu 23: D
+
+Giải thích: Các thuốc như Sucralfat, antacid (cần tác dụng bao phủ dạ dày, tránh cản trở tiêu hóa) cần uống cách xa bữa ăn (slide 42).
+
+Nguồn: Thời gian dùng thuốc hợp lý – Trang 42
+
+Câu 24: C
+
+Giải thích: Thuốc có chu kỳ gan ruột sẽ được tái hấp thu qua tĩnh mạch cửa gan về lại tuần hoàn, dẫn đến tích lũy trong cơ thể và kéo dài tác dụng (slide 28).
+
+Nguồn: Thải trừ qua phân – Trang 28
+
+Câu 25: C
+
+Giải thích: Dược động học quy định sau khoảng 5 lần t1/2, nồng độ thuốc trong máu sẽ đạt trạng thái cân bằng / ổn định (Css) (slide 30).
+
+Nguồn: Thời gian bán thải – Trang 30
+
+Câu 26: B
+
+Giải thích: Sulfamid (và aspirin, phenacetin) có thể gây thiếu máu tan huyết ở bệnh nhân bị thiếu hụt G6PD do di truyền (slide 26).
+
+Nguồn: Yếu tố làm thay đổi chuyển hóa thuốc – Trang 26
+
+Câu 27: B
+
+Giải thích: Đường tiêm tĩnh mạch (IV) tuyệt đối KHÔNG dùng cho dung dịch thuốc tan trong dầu, các chất gây tủa thành phần máu hoặc tan hồng cầu (slide 18).
+
+Nguồn: Hấp thu qua đường tiêm – Trang 18
+
+Câu 28: C
+
+Giải thích: Áp dụng công thức tính liều theo BSA: Liều trẻ em = [BSA của trẻ / 1,73] x liều người lớn = (0,61 / 1,73) x 250 = 88,15 mg. Đáp án gần nhất là 88 mg (slide 54).
+
+Nguồn: Tính liều theo diện tích cơ thể – Trang 54
+
+Câu 29: A
+
+Giải thích: Tetracyclin tương tác với Canxi trong sữa tạo thành phức hợp khó tan ngay tại đường tiêu hóa, đây là tương tác trong quá trình hấp thu (slide 40).
+
+Nguồn: Tương tác dược động học – Trang 40
+
+Câu 30: C
+
+Giải thích: Với thuốc có t1/2 < 6h và ít độc tính, chiến lược dùng thuốc là cho liều cao để duy trì nồng độ (nếu thuốc độc như insulin, heparin thì mới truyền tĩnh mạch) (slide 30).
+
+Nguồn: Thời gian bán thải – Trang 30
+
+Câu 31: B
+
+Giải thích: Aspirin có ái lực mạnh với protein huyết tương sẽ đẩy Sulfamid (ái lực yếu hơn) ra khỏi liên kết, làm tăng nồng độ Sulfamid tự do trong máu, dẫn đến tăng tác dụng và nguy cơ độc tính (slide 22).
+
+Nguồn: Phân bố thuốc – Trang 22
+
+Câu 32: B
+
+Giải thích: Sucralfat bao niêm mạc, antacid (base yếu như nhôm hydroxyd) trung hòa acid. Đây là các kiểu tác dụng tại chỗ và tác dụng không qua thụ thể (nhờ bản chất lý hóa) (slide 34, 36).
+
+Nguồn: Các kiểu tác dụng của thuốc / Cơ chế không qua R – Trang 34, 36
+
+Câu 33: C
+
+Giải thích: Thuốc đạt trạng thái ổn định (Css) sau 5 chu kỳ bán thải. 5 x 12 giờ = 60 giờ (slide 30).
+
+Nguồn: Thời gian bán thải – Trang 30
+
+Câu 34: C
+
+Giải thích: Tiêm tĩnh mạch (IV) đưa thuốc thẳng vào hệ tuần hoàn chung, bỏ qua hoàn toàn sự hấp thu tại ruột và chuyển hóa lần đầu qua gan, giúp sinh khả dụng cao nhất và tác dụng nhanh nhất (slide 16, 18).
+
+Nguồn: Các đường hấp thu thuốc – Trang 16, 17, 18
+
+Câu 35: B
+
+Giải thích: Suy dinh dưỡng làm giảm protein huyết tương, do đó các vị trí gắn kết giảm, dẫn đến tỷ lệ thuốc tự do (có hoạt tính) tăng lên so với bình thường. Bác sĩ cần phải hiệu chỉnh giảm liều để tránh ngộ độc (slide 22).
+
+Nguồn: Phân bố thuốc – Trang 22
+
+Câu 36: C
+
+Giải thích: Cả hai thuốc đều thải trừ qua bơm bài tiết chủ động ở ống lượn gần. Probenecid tương tác dược động học ở giai đoạn thải trừ bằng cách cạnh tranh bơm này, làm chậm sự đào thải của Penicillin, kéo dài thời gian tác dụng của kháng sinh này (slide 27, 40).
+
+Nguồn: Thải trừ thuốc / Tương tác dược động học – Trang 27, 40
+
+Câu 37: B
+
+Giải thích: Vd rất lớn (500L) lớn hơn nhiều lần thể tích nước cơ thể (khoảng 36L), nghĩa là thuốc tập trung cực kỳ nhiều trong các mô (cơ, mỡ...). Do đó, hàm lượng thuốc trong huyết tương là rất nhỏ, các phương pháp lọc máu (chỉ lọc ở huyết tương) sẽ kém hiệu quả để loại bỏ toàn bộ lượng thuốc trong cơ thể (slide 24).
+
+Nguồn: Thể tích phân bố – Trang 24
+
+Câu 38: D
+
+Giải thích: Trimethoprim và Sulfonamid khi phối hợp tạo ra Cotrimoxazol theo kiểu tương tác dược lực học gián tiếp ngoài thụ thể - hiệp lực bội tăng (Synergism, 1 + 1 > 2), tạo ra tác dụng diệt khuẩn mạnh mẽ được ứng dụng rộng rãi (slide 43, 45).
+
+Nguồn: Tương tác dược lực học – Trang 43, 45
+
+Câu 39: C
+
+Giải thích: Bệnh nhân xuất hiện các triệu chứng thiếu thuốc về mặt cơ thể (run, vã mồ hôi, nhịp tim nhanh) chứng tỏ đây là lệ thuộc thể chất và hội chứng cai thuốc. Tình trạng có đầy đủ lệ thuộc tâm lý, thể chất và hội chứng cai được định nghĩa là Nghiện (Addiction) (slide 48).
+
+Nguồn: Lệ thuộc thuốc – Trang 48
+
+Câu 40: B
+
+Giải thích: Dị ứng tuýp 2 theo Gell & Coombs (Kháng thể trung gian) xảy ra khi kháng thể (IgG/IgM) kết hợp kháng nguyên bám trên bề mặt tế bào, hoạt hóa bổ thể và phá hủy tế bào. Biểu hiện lâm sàng điển hình là thiếu máu tán huyết tự miễn (slide 49).
+
+Nguồn: Dung nạp - Lệ thuộc - Dị ứng thuốc – Trang 49
+
+
+
+
+Nguồn tài liệu: [BUỔI 2] bài. Thuốc tác động trên hệ thần kinh thực vật.pdf
+Tổng số câu: 40 câu.
+Hình thức: Trắc nghiệm 4 lựa chọn A, B, C, D.
+
+PHẦN I. NHẬN BIẾT (15 CÂU)
+
+Câu 1. Theo đại cương, hệ thần kinh thực vật (TKTV) được chia thành hai hệ chính nào?
+A. Hệ thần kinh trung ương và hệ thần kinh ngoại biên.
+B. Hệ giao cảm và hệ đối giao cảm.
+C. Hệ vận động và hệ cảm giác.
+D. Hệ muscarinic và hệ nicotinic.
+Nguồn: Đại cương hệ thần kinh thực vật – Trang 4
+
+Câu 2. Thụ thể Muscarinic bị hủy (ức chế) bởi chất nào sau đây?
+A. Adrenalin.
+B. Nicotin.
+C. Atropin.
+D. Curar.
+Nguồn: Thụ thể acetylcholin / Đại cương – Trang 8, 10
+
+Câu 3. Thuốc nào sau đây thuộc nhóm cường đối giao cảm trực tiếp?
+A. Pilocarpin.
+B. Neostigmin.
+C. Atropin.
+D. Physostigmin.
+Nguồn: Thuốc tác động lên hệ đối giao cảm – Trang 9
+
+Câu 4. Trong y khoa, Pilocarpin thường được chỉ định để điều trị bệnh lý nào?
+A. Nhược cơ nặng.
+B. Nhỏ mắt trị glaucom, khô mắt và trị khô miệng.
+C. Viêm loét dạ dày - tá tràng.
+D. Hen phế quản.
+Nguồn: Pilocarpin – Trang 13, 14
+
+Câu 5. Thuốc nào sau đây thuộc nhóm kháng acetylcholinesterase (AchE) thuận nghịch và được dùng để điều trị bệnh nhược cơ?
+A. Physostigmin.
+B. Neostigmin.
+C. Rivastigmin.
+D. Parathion.
+Nguồn: Thuốc kháng AchE thuận nghịch – Trang 16
+
+Câu 6. Nhóm chất nào sau đây thuộc loại kháng cholinesterase KHÔNG thuận nghịch, thường được dùng làm thuốc trừ sâu?
+A. Các dẫn xuất của Atropin.
+B. Các phosphor hữu cơ (như Parathion, Malathion).
+C. Các alkaloid từ nấm cựa gà.
+D. Các thuốc làm mềm cơ xương.
+Nguồn: Thuốc kháng AchE không thuận nghịch – Trang 18
+
+Câu 7. Atropin là một alkaloid kháng muscarinic tự nhiên được chiết xuất từ loài thực vật nào?
+A. Cà độc dược (Atropa belladonna).
+B. Thuốc phiện (Papaver somniferum).
+C. Ma hoàng (Ephedra sinica).
+D. Ba gạc (Rauwolfia serpentina).
+Nguồn: Hợp chất kháng muscarinic từ tự nhiên – Trang 22
+
+Câu 8. Scopolamin ở dạng miếng dán thường được chỉ định trên lâm sàng với mục đích gì?
+A. Chống co thắt phế quản.
+B. Điều trị ngộ độc thuốc trừ sâu.
+C. Chống say tàu xe.
+D. Làm mềm cơ xương trong phẫu thuật.
+Nguồn: Hợp chất kháng muscarinic từ tự nhiên – Trang 24
+
+Câu 9. Ipratropium và Tiotropium là các thuốc kháng muscarinic tổng hợp, được chỉ định chủ yếu trong trường hợp nào?
+A. Khám khúc xạ mắt.
+B. Điều trị COPD và cắt cơn hen phế quản.
+C. Điều trị Parkinson.
+D. Chống nôn do say tàu xe.
+Nguồn: Hợp chất kháng muscarinic tổng hợp – Trang 24
+
+Câu 10. Khi kích thích thụ thể $\alpha_{1}$ trên cơ trơn mạch máu sẽ dẫn đến đáp ứng sinh lý nào?
+A. Giãn mạch máu.
+B. Co thắt mạch máu.
+C. Tăng tiết insulin.
+D. Tăng tiết renin.
+Nguồn: Thụ thể hệ giao cảm – Trang 31
+
+Câu 11. Adrenalin (Epinephrin) có tác dụng ưu thế trên hệ cơ quan nào?
+A. Hệ tiêu hóa và tiết niệu.
+B. Tim và mạch máu.
+C. Hệ thần kinh trung ương.
+D. Hệ cơ vân.
+Nguồn: Thuốc cường giao cảm trực tiếp – Trang 33
+
+Câu 12. Thuốc nào sau đây là thuốc cường giao cảm trực tiếp chuyên biệt trên thụ thể $\beta_{2}$, được dùng chủ yếu trong điều trị hen suyễn?
+A. Salbutamol.
+B. Phenylephrin.
+C. Dobutamin.
+D. Amphetamin.
+Nguồn: Thuốc cường giao cảm trực tiếp chuyên biệt $\beta_{2}$ – Trang 37
+
+Câu 13. Prazocin thuộc nhóm thuốc ức chế thụ thể nào để điều trị hạ huyết áp?
+A. Ức chế chọn lọc $\beta_{1}$.
+B. Ức chế $\alpha_{2}$-adrenergic.
+C. Ức chế chọn lọc $\alpha_{1}$-adrenergic.
+D. Ức chế không chọn lọc $\alpha_{1}$ và $\alpha_{2}$.
+Nguồn: Thuốc ức chế $\alpha$ - adrenergic – Trang 41
+
+Câu 14. Propranolol là thuốc chẹn beta có đặc tính nổi bật nào sau đây?
+A. Ức chế chọn lọc $\beta_{1}$.
+B. Có hoạt tính cường giao cảm nội tại (ISA).
+C. Ức chế $\alpha$ và $\beta$ đồng thời.
+D. Sinh khả dụng thấp, ức chế không chọn lọc để hạ huyết áp.
+Nguồn: Thuốc ức chế $\beta$ - adrenergic – Trang 44
+
+Câu 15. Thuốc nào sau đây thuộc nhóm liệt giao cảm gián tiếp (làm giảm lượng catecholamin nội sinh)?
+A. Atenolol.
+B. Reserpin.
+C. Labetalol.
+D. Phentolamin.
+Nguồn: Thuốc liệt giao cảm gián tiếp – Trang 45
+
+PHẦN II. THÔNG HIỂU (10 CÂU)
+
+Câu 16. Trong quá trình dẫn truyền thần kinh tại khớp thần kinh (synapse), ion nào đi vào cúc tận cùng đóng vai trò khởi động sự xuất các túi synap chứa chất dẫn truyền thần kinh?
+A. Ion Kali ($K^{+}$).
+B. Ion Natri ($Na^{+}$).
+C. Ion Canxi ($Ca^{2+}$).
+D. Ion Clorua ($Cl^{-}$).
+Nguồn: Khớp thần kinh (synapse) – Trang 6
+
+Câu 17. Thụ thể M2 của hệ Muscarin phân bố ưu thế ở cơ quan nào?
+A. Cơ trơn đường ruột.
+B. Các tuyến ngoại tiết.
+C. Hạch thần kinh thực vật.
+D. Cơ tim.
+Nguồn: Đại cương / Hệ cholinergic – Trang 8
+
+Câu 18. Thuốc kháng acetylcholinesterase (AchE) phát huy tác dụng thông qua cơ chế nào?
+A. Kích thích trực tiếp lên thụ thể muscarinic.
+B. Ức chế sự thủy phân bình thường của Ach, làm tăng nồng độ Ach trong synap.
+C. Ngăn cản Ach gắn vào thụ thể nicotinic.
+D. Thủy phân nhanh chóng lượng Ach dư thừa tại synap.
+Nguồn: Thuốc kháng acetylcholinesterase (AchE) – Trang 15
+
+Câu 19. Bệnh nhân dùng Atropin thường xuất hiện các triệu chứng khô miệng, giãn đồng tử, bí tiểu. Cơ chế nào giải thích hiện tượng này?
+A. Thuốc ức chế thụ thể nicotinic tại hạch giao cảm.
+B. Thuốc ức chế men cholinesterase tại ngoại biên.
+C. Thuốc đối kháng tương tranh với receptor muscarinic tại cơ trơn, tuyến ngoại tiết và mắt.
+D. Thuốc kích thích trực tiếp hệ giao cảm tiết catecholamin.
+Nguồn: Thuốc kháng hệ muscarinic – Trang 21
+
+Câu 20. Thuốc Papaverin có tác dụng chống co thắt cơ trơn hướng cơ (không qua thụ thể TKTV) nhờ vào cơ chế nào?
+A. Ức chế phosphodiesterase làm tăng c-AMP.
+B. Kích thích thụ thể $\beta_{2}$ giao cảm.
+C. Chẹn kênh Canxi trực tiếp tại màng tế bào cơ.
+D. Ức chế thụ thể muscarinic M3.
+Nguồn: Thuốc chống co thắt cơ trơn hướng cơ – Trang 25
+
+Câu 21. Đặc điểm tác dụng của Succinylcholin tại bản vận động cơ xương là gì?
+A. Đối kháng cạnh tranh thuận nghịch với Ach.
+B. Gắn trên hệ N cơ xương làm bản vận động khử cực kéo dài dẫn đến liệt cơ.
+C. Ức chế phóng thích Ach từ cúc tận cùng.
+D. Tác dụng liệt cơ có thể được giải độc ngay lập tức bằng Neostigmin.
+Nguồn: Thuốc làm mềm cơ xương – Trang 26, 27
+
+Câu 22. Tác dụng của Dopamin thay đổi theo liều lượng như thế nào?
+A. Liều thấp co mạch, liều cao giãn mạch ngoại vi.
+B. Liều thấp giãn mạch, liều trung bình kích thích co bóp tim, liều cao co mạch.
+C. Chỉ có tác dụng kích thích nhịp tim ở mọi mức liều.
+D. Liều cao gây giãn khí quản mạnh như Isoprenalin.
+Nguồn: Thuốc cường giao cảm trực tiếp – Trang 33
+
+Câu 23. Sự khác biệt cơ bản về tác dụng dược lý giữa Ephedrin và Pseudoephedrin là gì?
+A. Pseudoephedrin không có tác dụng co mạch và giãn phế quản.
+B. Ephedrin chỉ kích thích TKTW, không tác dụng lên huyết áp.
+C. Pseudoephedrin có tác dụng kích thích TKTW yếu hơn Ephedrin.
+D. Pseudoephedrin là thuốc cường giao cảm trực tiếp, còn Ephedrin là gián tiếp.
+Nguồn: Thuốc cường giao cảm trực tiếp và gián tiếp – Trang 38
+
+Câu 24. Vì sao Propranolol được chống chỉ định cho bệnh nhân hen suyễn hoặc COPD?
+A. Vì thuốc kích thích thụ thể $\alpha_{1}$ gây co mạch phổi.
+B. Vì thuốc ức chế không chọn lọc, chẹn thụ thể $\beta_{2}$ gây co thắt phế quản nặng.
+C. Vì thuốc làm giảm tiết dịch hô hấp gây khô niêm mạc.
+D. Vì thuốc gây chậm nhịp tim làm giảm oxy máu.
+Nguồn: Tác dụng không mong muốn của Propranolol – Trang 44
+
+Câu 25. Cơ chế hạ huyết áp của Methyldopa và Clonidin là gì?
+A. Ức chế thụ thể $\alpha_{1}$ tại mạch máu ngoại biên.
+B. Kích thích thụ thể $\alpha_{2}$ tại não, làm giảm phóng thích noradrenalin.
+C. Ức chế men chuyển angiotensin (ACE).
+D. Làm cạn kiệt lượng catecholamin dự trữ tại túi synap như Reserpin.
+Nguồn: Thuốc liệt giao cảm gián tiếp – Trang 45
+
+PHẦN III. VẬN DỤNG (10 CÂU)
+
+Câu 26. Một nông dân nhập viện với triệu chứng co đồng tử, tăng tiết nước bọt, co thắt phế quản, nhịp tim chậm sau khi phun thuốc trừ sâu (phosphor hữu cơ). Bác sĩ cấp cứu chỉ định dùng Atropin và phối hợp thêm thuốc nào để làm tái sinh enzym cholinesterase?
+A. Neostigmin.
+B. Pralidoxim.
+C. Physostigmin.
+D. Pilocarpin.
+Nguồn: Ngộ độc chất kháng cholinesterase – Trang 19
+
+Câu 27. Một bệnh nhân nam 75 tuổi được chẩn đoán mắc bệnh Alzheimer (sa sút trí tuệ). Để cải thiện triệu chứng, bác sĩ có thể kê đơn loại thuốc kháng cholinesterase nào sau đây?
+A. Pyridostigmin.
+B. Edrophonium.
+C. Rivastigmin.
+D. Neostigmin.
+Nguồn: Thuốc kháng AchE thuận nghịch – Trang 16, 17
+
+Câu 28. Bệnh nhân nhập viện cấp cứu vì đau nhức mắt dữ dội, chẩn đoán glaucom góc đóng cấp tính. Bác sĩ chuyên khoa mắt thường dùng dung dịch nhỏ mắt nào để làm co đồng tử và giảm nhanh áp suất nội nhãn?
+A. Atropin 1%.
+B. Homatropin 2%.
+C. Pilocarpin 1% - 2%.
+D. Xylometazolin 0,1%.
+Nguồn: Pilocarpin – Trang 14
+
+Câu 29. Bệnh nhân bị sốc phản vệ sau khi tiêm kháng sinh, có biểu hiện tụt huyết áp nặng và trụy tim mạch. Theo phác đồ, thuốc nào là lựa chọn ưu tiên để tiêm bắp hoặc tĩnh mạch nhằm nâng huyết áp và phục hồi tim?
+A. Dobutamin.
+B. Noradrenalin.
+C. Isoprenalin.
+D. Adrenalin (Epinephrin).
+Nguồn: Thuốc cường giao cảm trực tiếp – Trang 33
+
+Câu 30. Một bệnh nhân dùng thuốc xịt Xylometazolin liên tục trong thời gian dài để trị nghẹt mũi. Tác dụng không mong muốn (ADR) nào dễ xảy ra nhất do lạm dụng thuốc này?
+A. Tụt huyết áp tư thế đứng.
+B. Nghẹt mũi dội ngược, sung huyết mạn tính niêm mạc mũi.
+C. Đau cơ dữ dội.
+D. Viêm mống mắt.
+Nguồn: Thuốc cường giao cảm trực tiếp (Xylometazolin) – Trang 35
+
+Câu 31. Một bệnh nhân lên cơn hen phế quản cấp tính cần thuốc giãn phế quản tác dụng khởi phát nhanh. Dạng thuốc xịt nào sau đây là phù hợp nhất để "cắt cơn"?
+A. Salmeterol.
+B. Ipratropium.
+C. Salbutamol.
+D. Tiotropium.
+Nguồn: Thuốc cường giao cảm trực tiếp chuyên biệt $\beta_{2}$ – Trang 37
+
+Câu 32. Bệnh nhân nam cao tuổi bị phì đại tuyến tiền liệt lành tính gây khó tiểu, bí tiểu. Nhóm thuốc nào sau đây (như Tamsulosin, Doxazosin) được ưu tiên sử dụng để giãn cơ trơn cổ bàng quang và tuyến tiền liệt?
+A. Thuốc ức chế $\alpha_{1}$-adrenergic.
+B. Thuốc ức chế $\alpha_{2}$-adrenergic.
+C. Thuốc cường $\beta_{2}$-adrenergic.
+D. Thuốc liệt đối giao cảm tự nhiên.
+Nguồn: Thuốc ức chế $\alpha$ - adrenergic – Trang 41
+
+Câu 33. Bệnh nhân bị đau quặn bụng do co thắt đường tiêu hóa. Bác sĩ muốn dùng một thuốc kháng muscarinic để giảm co thắt nhưng ít gây tác dụng phụ toàn thân và không ảnh hưởng lên TKTW. Thuốc nào sau đây là lựa chọn hợp lý?
+A. Scopolamin miếng dán.
+B. Atropin tiêm tĩnh mạch.
+C. N-butyl scopolamin uống hoặc tiêm.
+D. Trihexyphenidyl.
+Nguồn: Hợp chất kháng muscarinic tổng hợp – Trang 23, 24
+
+Câu 34. Trẻ em bị ngộ độc do ăn nhầm quả Cà độc dược, có biểu hiện da đỏ bừng, khô miệng, giãn đồng tử, nhịp tim nhanh và kích động (hội chứng kháng cholinergic). Thuốc giải độc đặc hiệu nào có thể được chỉ định tiêm tĩnh mạch chậm?
+A. Neostigmin.
+B. Physostigmin.
+C. Edrophonium.
+D. Pralidoxim.
+Nguồn: Physostigmin – Trang 17
+
+Câu 35. Phụ nữ mang thai bị tăng huyết áp thai kỳ cần điều trị bằng thuốc. Trong nhóm thuốc tác động lên hệ thần kinh thực vật, thuốc nào sau đây được xem là lựa chọn hàng đầu cho phụ nữ có thai?
+A. Propranolol.
+B. Labetalol.
+C. Prazocin.
+D. Methyldopa.
+Nguồn: Thuốc liệt giao cảm gián tiếp (Methyldopa) – Trang 46
+
+PHẦN IV. VẬN DỤNG CAO (5 CÂU)
+
+Câu 36. Trong phẫu thuật ổ bụng, bệnh nhân được dùng thuốc giãn cơ Cisatracurium (nhóm chẹn thần kinh cơ không khử cực). Cuối ca mổ, để hóa giải tác dụng giãn cơ này và rút ống nội khí quản, bác sĩ sức hồi sức cần tiêm tĩnh mạch phối hợp những thuốc nào?
+A. Succinylcholin + Atropin.
+B. Neostigmin (hoặc Pyridostigmin) + Atropin.
+C. Physostigmin + Pralidoxim.
+D. Tubocurarin + Kháng histamin H1.
+Nguồn: Thuốc ức chế thụ thể nicotinic / Thuốc làm mềm cơ xương – Trang 27
+
+Câu 37. Một bệnh nhân đái tháo đường type 2 đang điều trị bằng Insulin, nay được chẩn đoán thêm bệnh lý tăng huyết áp và nhịp tim nhanh. Nếu bác sĩ chỉ định dùng Propranolol (chẹn beta không chọn lọc), nguy cơ cao nhất về tương tác/dược lý trên bệnh nhân này là gì?
+A. Thuốc làm giảm hiệu lực hạ đường huyết của Insulin dẫn đến hôn mê do tăng đường huyết.
+B. Thuốc sẽ che lấp các triệu chứng cảnh báo của cơn hạ đường huyết (như hồi hộp, đánh trống ngực).
+C. Thuốc gây tương tác trực tiếp phá hủy phân tử Insulin trong máu.
+D. Thuốc làm tăng tiết Insulin quá mức gây tụt huyết áp nặng.
+Nguồn: Tác dụng không mong muốn (ADR) điển hình – Trang 44
+
+Câu 38. Bệnh nhân bị suy tim cấp xung huyết kèm tụt huyết áp nhẹ, cần truyền tĩnh mạch thuốc cường giao cảm để tăng sức co bóp cơ tim nhưng ít làm tăng nhịp tim quá mức và không gây co mạch ngoại vi mạnh. Lựa chọn ưu tiên giữa Adrenalin và Dobutamin trong trường hợp này được giải thích dựa trên cơ sở nào?
+A. Nên chọn Adrenalin vì tác dụng mạnh trên cả $\alpha$ và $\beta$, nâng huyết áp nhanh hơn.
+B. Nên chọn Dobutamin vì tác động ưu tiên trên thụ thể $\beta_{1}$ của cơ tim, tăng sức co bóp mà ít gây nhịp nhanh và không co mạch mạnh.
+C. Nên chọn Dobutamin vì nó là thuốc kháng cholinesterase giúp tim phục hồi tự nhiên.
+D. Nên chọn Adrenalin vì thời gian bán thải dài hơn Dobutamin.
+Nguồn: Thuốc cường giao cảm trực tiếp (Dobutamin) – Trang 34
+
+Câu 39. Bệnh nhân nam 40 tuổi bị bỏng nặng diện rộng. Khi cần gây mê đặt nội khí quản khẩn cấp, bác sĩ gây mê tuyệt đối KHÔNG ĐƯỢC dùng Succinylcholin để làm mềm cơ xương vì nguyên nhân sâu xa nào?
+A. Succinylcholin gây khử cực màng sợi cơ kéo dài, làm giải phóng ồ ạt ion Kali ($K^{+}$) ra ngoại bào gây tăng Kali máu nguy hiểm ở bệnh nhân bỏng.
+B. Bệnh nhân bỏng bị suy giảm men cholinesterase gan nên không chuyển hóa được thuốc.
+C. Succinylcholin gây giải phóng histamin rất mạnh làm bệnh nhân sốc phản vệ kép.
+D. Succinylcholin đối kháng với các thuốc giảm đau đang dùng cho bệnh nhân bỏng.
+Nguồn: Succinylcholin (ADR) – Trang 28
+
+Câu 40. Pindolol và Metoprolol đều thuộc nhóm thuốc chẹn thụ thể beta (Beta-blockers). Tuy nhiên, Pindolol ít gây hiện tượng nhịp tim chậm nghiêm trọng ở bệnh nhân lúc nghỉ ngơi so với Metoprolol. Đặc tính dược lý nào của Pindolol giải thích sự khác biệt này?
+A. Pindolol chẹn chọn lọc thụ thể $\beta_{2}$ thay vì $\beta_{1}$.
+B. Pindolol kích thích giải phóng noradrenalin từ tận cùng thần kinh.
+C. Pindolol có hoạt tính cường giao cảm nội tại (ISA), tạo ra sự kích thích nhẹ tại thụ thể $\beta$.
+D. Pindolol có sinh khả dụng đường uống rất thấp nên không đủ nồng độ ức chế tim.
+Nguồn: Tác dụng không mong muốn (Pindolol) – Trang 44
+
+
+ĐÁP ÁN VÀ GIẢI THÍCH CHI TIẾT
+
+Câu 01: B
+Giải thích: Hệ thần kinh thực vật (TKTV) được chia thành Hệ giao cảm (adrenergic) và Hệ đối giao cảm (cholinergic) (Trang 4).
+Nguồn: Đại cương hệ thần kinh thực vật – Trang 4
+Câu 02: C
+Giải thích: Thụ thể muscarinic (thuộc hệ M) bị kích thích bởi muscarin và ức chế (hủy) bởi atropin (Trang 8, 10).
+Nguồn: Thụ thể acetylcholin / Đại cương – Trang 8, 10
+Câu 03: A
+Giải thích: Pilocarpin nằm trong nhóm thuốc cường đối giao cảm trực tiếp, có tác dụng chủ vận trên receptor cholinergic (Trang 9).
+Nguồn: Thuốc tác động lên hệ đối giao cảm – Trang 9
+Câu 04: B
+Giải thích: Pilocarpin được dùng dưới dạng nhỏ mắt để cấp cứu glaucom góc đóng, điều trị khô mắt; dạng uống dùng để trị khô miệng sau xạ trị (Trang 13, 14).
+Nguồn: Pilocarpin – Trang 13, 14
+Câu 05: B
+Giải thích: Neostigmin là thuốc ức chế cholinesterase phục hồi (thuận nghịch), được chỉ định chủ yếu cho bệnh nhược cơ, giải độc chất làm mềm cơ (Trang 16).
+Nguồn: Thuốc kháng AchE thuận nghịch – Trang 16
+Câu 06: B
+Giải thích: Các phosphor hữu cơ (như Parathion, Malathion) ức chế men cholinesterase không thuận nghịch, làm tích tụ Ach, thường dùng làm thuốc trừ sâu (Trang 18).
+Nguồn: Thuốc kháng AchE không thuận nghịch – Trang 18
+Câu 07: A
+Giải thích: Atropin và Scopolamin là các alkaloid tự nhiên chiết xuất từ cây Cà độc dược (Atropa belladonna L.) thuộc họ Cà (Trang 22).
+Nguồn: Hợp chất kháng muscarinic từ tự nhiên – Trang 22
+Câu 08: C
+Giải thích: Scopolamin dạng miếng dán 1,5 mg được chỉ định phổ biến để phòng chống say tàu xe (Trang 24).
+Nguồn: Hợp chất kháng muscarinic từ tự nhiên – Trang 24
+Câu 09: B
+Giải thích: Ipratropium và Tiotropium làm giãn khí quản mà không làm khô niêm mạc hô hấp, được chỉ định đặc trị cho COPD và cắt cơn hen phế quản (Trang 23, 24).
+Nguồn: Hợp chất kháng muscarinic tổng hợp – Trang 24
+Câu 10: B
+Giải thích: Dựa vào bảng đáp ứng của thụ thể, kích thích $\alpha_{1}$ trên sợi cơ trơn mạch máu sẽ gây ra hiện tượng co thắt mạch (co mạch) (Trang 31).
+Nguồn: Thụ thể hệ giao cảm – Trang 31
+Câu 11: B
+Giải thích: Adrenalin (Epinephrin) có tác dụng ưu thế trên tim, mạch; dùng để nâng huyết áp, phục hồi tim khi ngưng tim (Trang 33).
+Nguồn: Thuốc cường giao cảm trực tiếp – Trang 33
+Câu 12: A
+Giải thích: Salbutamol là thuốc cường giao cảm trực tiếp chọn lọc (chuyên biệt) trên $\beta_{2}$, có tác dụng làm giãn phế quản, dùng cắt cơn hen suyễn (Trang 37).
+Nguồn: Thuốc cường giao cảm trực tiếp chuyên biệt $\beta_{2}$ – Trang 37
+Câu 13: C
+Giải thích: Prazocin thuộc nhóm ức chế (chẹn) chọn lọc $\alpha_{1}$-adrenergic, có tác dụng giãn mạch, làm hạ huyết áp (Trang 41).
+Nguồn: Thuốc ức chế $\alpha$ - adrenergic – Trang 41
+Câu 14: D
+Giải thích: Propranolol là thuốc ức chế $\beta$ không chọn lọc, đặc tính nổi bật là sinh khả dụng thấp, dùng để hạ huyết áp (Trang 44).
+Nguồn: Thuốc ức chế $\beta$ - adrenergic – Trang 44
+Câu 15: B
+Giải thích: Reserpin là thuốc liệt giao cảm gián tiếp, cơ chế làm giảm lượng catecholamin nội sinh ở tận cùng thần kinh giao cảm (Trang 45).
+Nguồn: Thuốc liệt giao cảm gián tiếp – Trang 45
+Câu 16: C
+Giải thích: Khi điện thế hoạt động làm khứ phân cực cúc tận cùng, các kênh $Ca^{2+}$ mở ra. Sự đi vào của $Ca^{2+}$ khởi động sự xuất (giải phóng) các chất dẫn truyền thần kinh trong túi synap (Trang 6).
+Nguồn: Khớp thần kinh (synapse) – Trang 6
+Câu 17: D
+Giải thích: Theo đặc điểm phân bố, thụ thể M2 của hệ Muscarinic xuất hiện ưu thế ở cơ tim (Trang 8).
+Nguồn: Đại cương / Hệ cholinergic – Trang 8
+Câu 18: B
+Giải thích: Thuốc kháng AchE ức chế (hay bất hoạt) sự thủy phân bình thường của Ach bởi men cholinesterase, từ đó làm tăng nồng độ Ach trong khe synap (Trang 15).
+Nguồn: Thuốc kháng acetylcholinesterase (AchE) – Trang 15
+Câu 19: C
+Giải thích: Atropin có cơ chế đối kháng tương tranh với receptor muscarinic tại tuyến ngoại tiết (giảm tiết nước bọt gây khô miệng), ở mắt (gây giãn đồng tử), cơ trơn bàng quang (gây bí tiểu) (Trang 21).
+Nguồn: Thuốc kháng hệ muscarinic – Trang 21
+Câu 20: A
+Giải thích: Papaverin chống co thắt cơ trơn hướng cơ bằng cách ức chế enzym phosphodiesterase, dẫn đến làm tăng nồng độ vòng c-AMP nội bào, gây giãn cơ (Trang 25).
+Nguồn: Thuốc chống co thắt cơ trơn hướng cơ – Trang 25
+Câu 21: B
+Giải thích: Succinylcholin gắn trên hệ N ở cơ xương, đóng vai trò như chất đồng vận làm bản vận động khử cực kéo dài. Khử cực liên tục khiến cơ không thể tái cực để nhận kích thích mới, dẫn đến liệt cơ (Trang 26).
+Nguồn: Thuốc làm mềm cơ xương – Trang 26, 27
+Câu 22: B
+Giải thích: Tác dụng của Dopamin phụ thuộc trực tiếp vào liều: Liều thấp (1-2 µg/kg/phút) gây giãn mạch; Liều TB (5-20 µg/kg/phút) kích thích co bóp tim; Liều cao (>20 µg/kg/phút) gây co mạch (Trang 33).
+Nguồn: Thuốc cường giao cảm trực tiếp – Trang 33
+Câu 23: C
+Giải thích: Cả hai thuốc đều gây co mạch và giãn phế quản, nhưng Pseudoephedrin có tác dụng kích thích thần kinh trung ương (TKTW) yếu hơn so với Ephedrin (Trang 38).
+Nguồn: Thuốc cường giao cảm trực tiếp và gián tiếp – Trang 38
+Câu 24: B
+Giải thích: Propranolol là thuốc chẹn $\beta$ không chọn lọc (chẹn cả $\beta_{1}$ và $\beta_{2}$). Chẹn $\beta_{2}$ ở phế quản sẽ ngăn cản quá trình giãn cơ, gây co thắt phế quản nặng. Đây là chống chỉ định tuyệt đối cho người hen suyễn/COPD (Trang 44).
+Nguồn: Tác dụng không mong muốn của Propranolol – Trang 44
+Câu 25: B
+Giải thích: Methyldopa và Clonidin thuộc nhóm liệt giao cảm gián tiếp, hoạt động bằng cách kích thích thụ thể $\alpha_{2}$ tại thần kinh trung ương (não), từ đó làm giảm tín hiệu giao cảm và giảm phóng thích noradrenalin ngoại biên (Trang 45).
+Nguồn: Thuốc liệt giao cảm gián tiếp – Trang 45
+Câu 26: B
+Giải thích: Ngộ độc phosphor hữu cơ (kháng cholinesterase không thuận nghịch) cần điều trị kết hợp Atropin (đối kháng triệu chứng muscarinic) và các thuốc như Pralidoxim, Trimedoxim, Obidoxim để tái sinh enzym cholinesterase (Trang 19).
+Nguồn: Ngộ độc chất kháng cholinesterase – Trang 19
+Câu 27: C
+Giải thích: Rivastigmin và Donepezil là các thuốc kháng cholinesterase thuận nghịch có khả năng thấm qua hàng rào máu não, được chỉ định cụ thể cho sa sút trí tuệ trong bệnh Alzheimer (Trang 16, 17).
+Nguồn: Thuốc kháng AchE thuận nghịch – Trang 16, 17
+Câu 28: C
+Giải thích: Trong cấp cứu glaucom góc đóng, Pilocarpin (dung dịch 1% - 2%) nhỏ mắt mỗi 5-10 phút là phác đồ để co đồng tử, mở rộng góc tiền phòng và giảm áp suất nội nhãn (Trang 14).
+Nguồn: Pilocarpin – Trang 14
+Câu 29: D
+Giải thích: Adrenalin (Epinephrin) kích thích mạnh trên cả thụ thể $\alpha$ (co mạch, nâng HA) và $\beta_{1}$ (kích thích tim), đồng thời giãn phế quản ($\beta_{2}$). Đây là thuốc ưu tiên hàng đầu, cứu mạng trong sốc phản vệ (Trang 33).
+Nguồn: Thuốc cường giao cảm trực tiếp – Trang 33
+Câu 30: B
+Giải thích: Xylometazolin là thuốc cường $\alpha_{1}$ gây co mạch niêm mạc mũi trị nghẹt mũi. Lạm dụng (dùng kéo dài) sẽ dẫn đến hiện tượng dung nạp, gây nghẹt mũi dội ngược và sung huyết mạn tính (Trang 35).
+Nguồn: Thuốc cường giao cảm trực tiếp (Xylometazolin) – Trang 35
+Câu 31: C
+Giải thích: Salbutamol (bình xịt định liều MDI) là thuốc chủ vận $\beta_{2}$ tác dụng ngắn, khởi phát nhanh, dùng phổ biến nhất để "cắt cơn" hen phế quản cấp tính. Salmeterol tác dụng kéo dài chỉ dùng duy trì (Trang 37).
+Nguồn: Thuốc cường giao cảm trực tiếp chuyên biệt $\beta_{2}$ – Trang 37
+Câu 32: A
+Giải thích: Thụ thể $\alpha_{1}$ tập trung nhiều ở cơ vòng cổ bàng quang và tuyến tiền liệt. Chẹn $\alpha_{1}$ (như Tamsulosin) sẽ làm giãn cơ vòng, giúp bệnh nhân phì đại tuyến tiền liệt dễ đi tiểu (Trang 41).
+Nguồn: Thuốc ức chế $\alpha$ - adrenergic – Trang 41
+Câu 33: C
+Giải thích: N-butyl scopolamin là hợp chất tổng hợp (chứa amin bậc 4) rất khó qua hàng rào máu não, do đó ít tác dụng phụ toàn thân, không ảnh hưởng hệ TKTW, thích hợp chống co thắt dạ dày, ruột (Trang 23, 24).
+Nguồn: Hợp chất kháng muscarinic tổng hợp – Trang 23, 24
+Câu 34: B
+Giải thích: Ngộ độc Atropin/Scopolamin (từ Cà độc dược) gây phong bế hệ muscarinic. Giải độc bằng cách tăng lượng Ach để cạnh tranh lại thụ thể, bằng thuốc kháng cholinesterase như Physostigmin (IV chậm) (Trang 17).
+Nguồn: Physostigmin – Trang 17
+Câu 35: D
+Giải thích: Methyldopa là thuốc liệt giao cảm trung ương. Trong y văn và dược lý học, Methyldopa được xem là lựa chọn hàng đầu, an toàn cho phụ nữ có thai (PNCT) bị tăng huyết áp (Trang 46).
+Nguồn: Thuốc liệt giao cảm gián tiếp (Methyldopa) – Trang 46
+Câu 36: B
+Giải thích: Atracurium/Cisatracurium là thuốc chẹn thần kinh cơ cạnh tranh thuận nghịch. Để đối kháng (hóa giải), cần dùng thuốc kháng cholinesterase có hồi phục (như Neostigmin) để tăng Ach đẩy thuốc giãn cơ ra khỏi thụ thể N, kèm Atropin để chặn tác dụng cường phó giao cảm ở tim/tuyến tiết của Neostigmin (Trang 27).
+Nguồn: Thuốc ức chế thụ thể nicotinic / Thuốc làm mềm cơ xương – Trang 27
+Câu 37: B
+Giải thích: Khi bệnh nhân đái tháo đường bị hạ đường huyết, phản ứng bù trừ giao cảm sẽ gây nhịp tim nhanh, hồi hộp, run. Chẹn beta không chọn lọc (Propranolol) sẽ che lấp các dấu hiệu cảnh báo sinh tồn này, khiến bệnh nhân rơi vào hôn mê hạ đường huyết mà không biết (Trang 44).
+Nguồn: Tác dụng không mong muốn (ADR) điển hình – Trang 44
+Câu 38: B
+Giải thích: Dobutamin có tính chọn lọc cao trên thụ thể $\beta_{1}$ tại tim (tăng sức co bóp, tăng cung lượng tim) mà ít tác động lên nhịp (ít gây nhịp nhanh) và ít tác động lên thụ thể $\alpha$ (ít co mạch). Adrenalin tác dụng mạnh lên mọi thụ thể nên khó kiểm soát huyết áp và nhịp tim hơn trong suy tim (Trang 34).
+Nguồn: Thuốc cường giao cảm trực tiếp (Dobutamin) – Trang 34
+Câu 39: A
+Giải thích: Succinylcholin là thuốc giãn cơ khử cực. Quá trình khử cực màng sợi cơ kéo dài làm các kênh ion mở, Kali ($K^{+}$) thoát ồ ạt từ trong tế bào ra ngoài máu. Ở bệnh nhân bỏng (mô tổn thương nhiều), điều này gây tăng Kali máu (hyperkalemia) cấp tính nguy hiểm tính mạng (ngừng tim) (Trang 28).
+Nguồn: Succinylcholin (ADR) – Trang 28
+Câu 40: C
+Giải thích: Pindolol là thuốc chẹn beta có thêm tính "hoạt tính cường giao cảm nội tại" (ISA - Intrinsic Sympathomimetic Activity). Nó vừa chẹn thụ thể để hạ áp, vừa kích thích một phần (chủ vận từng phần) nên duy trì được nhịp tim nền, ít làm chậm nhịp tim quá mức so với các thuốc không có ISA như Atenolol hay Metoprolol (Trang 44).
+Nguồn: Tác dụng không mong muốn (Pindolol) – Trang 44
+
+BẢNG ĐÁP ÁN TỔNG HỢP:
+Câu 01: B
+Câu 02: C
+Câu 03: A
+Câu 04: B
+Câu 05: B
+Câu 06: B
+Câu 07: A
+Câu 08: C
+Câu 09: B
+Câu 10: B
+Câu 11: B
+Câu 12: A
+Câu 13: C
+Câu 14: D
+Câu 15: B
+Câu 16: C
+Câu 17: D
+Câu 18: B
+Câu 19: C
+Câu 20: A
+Câu 21: B
+Câu 22: B
+Câu 23: C
+Câu 24: B
+Câu 25: B
+Câu 26: B
+Câu 27: C
+Câu 28: C
+Câu 29: D
+Câu 30: B
+Câu 31: C
+Câu 32: A
+Câu 33: C
+Câu 34: B
+Câu 35: D
+Câu 36: B
+Câu 37: B
+Câu 38: B
+Câu 39: A
+Câu 40: C
+
+
+
+
+
+
+Nguồn tài liệu: [BUỔI 3] bài. Thuốc tác động lên hệ thần kinh trung ương .pdf
+
+Tổng số câu: 40 câu.
+
+Hình thức: Trắc nghiệm 4 lựa chọn A, B, C, D.
+
+
+
+PHẦN I. NHẬN BIẾT (15 CÂU)
+
+
+
+Câu 1. Thuốc giảm đau gây nghiện (Opioid) có nguồn gốc tự nhiên (Opiates) được chiết xuất chủ yếu từ loài thực vật nào?
+
+A. Cây Ma hoàng (Ephedra sinica).
+
+B. Cây Anh túc (Papaver somniferum L.).
+
+C. Cây Cà độc dược (Atropa belladonna L.).
+
+D. Cây Ba gạc (Rauwolfia serpentina).
+
+Nguồn: Thuốc giảm đau gây nghiện – Trang 8, 11
+
+
+
+Câu 2. Đâu là tác dụng không mong muốn đặc trưng trên hệ tiêu hóa của Morphin và các thuốc giảm đau gây nghiện?
+
+A. Tiêu chảy cấp.
+
+B. Viêm loét dạ dày.
+
+C. Táo bón.
+
+D. Xuất huyết tiêu hóa.
+
+Nguồn: Thuốc giảm đau gây nghiện trên hệ tiêu hoá – Trang 9
+
+
+
+Câu 3. Thuốc giải độc đặc hiệu nào được sử dụng để đẩy morphin ra khỏi thụ thể trong trường hợp bệnh nhân bị ngộ độc quá liều opioid?
+
+A. Flumazenil.
+
+B. Methadon.
+
+C. Naloxon.
+
+D. Atropin.
+
+Nguồn: Thuốc đối kháng morphin – Trang 16
+
+
+
+Câu 4. Trong nhóm thuốc an thần gây ngủ Barbiturat, hoạt chất nào sau đây có thời gian tác dụng rất ngắn (30-60 phút) và thường được dùng để khởi mê tĩnh mạch?
+
+A. Phenobarbital.
+
+B. Thiopental.
+
+C. Pentobarbital.
+
+D. Amobarbital.
+
+Nguồn: Barbiturat – Trang 21
+
+
+
+Câu 5. Chất giải độc đặc hiệu khi bệnh nhân bị ngộ độc Benzodiazepin là gì?
+
+A. Flumazenil.
+
+B. Naloxon.
+
+C. Atropin.
+
+D. Pralidoxim.
+
+Nguồn: Benzodiazepin (Tác dụng không mong muốn) – Trang 27
+
+
+
+Câu 6. Zolpidem thuộc nhóm thuốc nào sau đây?
+
+A. Barbiturat tác dụng ngắn.
+
+B. Non-Benzodiazepin (Z-drug) gắn chọn lọc vào receptor BZB1.
+
+C. Thuốc chủ vận thụ thể melatonin.
+
+D. Thuốc chống trầm cảm 3 vòng.
+
+Nguồn: Zolpidem, zopiclon – Trang 29
+
+
+
+Câu 7. Thuốc gây tê nào sau đây có cấu trúc nhóm Ester?
+
+A. Lidocain.
+
+B. Bupivacain.
+
+C. Mepivacain.
+
+D. Procain.
+
+Nguồn: Phân loại thuốc gây tê – Trang 36
+
+
+
+Câu 8. Khí N2O (khí cười) thuộc nhóm thuốc nào?
+
+A. Thuốc mê đường tĩnh mạch.
+
+B. Thuốc mê đường hô hấp.
+
+C. Thuốc tiền mê.
+
+D. Thuốc tê bề mặt.
+
+Nguồn: Phân loại thuốc mê – Trang 50
+
+
+
+Câu 9. Hoạt chất nào sau đây là thuốc chống động kinh có tác dụng chọn lọc trên cơn động kinh nhỏ vắng ý thức và dùng được cho phụ nữ có thai 3 tháng đầu?
+
+A. Phenytoin.
+
+B. Carbamazepin.
+
+C. Ethosuximid.
+
+D. Gabapentin.
+
+Nguồn: Dẫn chất hydantoin / Ethosuximid – Trang 59
+
+
+
+Câu 10. Cơ chế tác dụng chính của thuốc chống loạn thần Chlorpromazin và Haloperidol là gì?
+
+A. Ức chế chọn lọc tái thu hồi serotonin (SSRI).
+
+B. Ức chế thụ thể dopaminergic D2 ở não.
+
+C. Kích thích thụ thể GABA.
+
+D. Kích thích giải phóng noradrenalin.
+
+Nguồn: Thuốc ức chế tâm thần – Trang 66
+
+
+
+Câu 11. Lithium là thuốc điều hòa hoạt động tâm thần được chỉ định chủ yếu cho trường hợp nào?
+
+A. Động kinh cơn lớn.
+
+B. Rối loạn lo âu lan tỏa.
+
+C. Phòng và điều trị cơn hưng cảm, trầm cảm (rối loạn lưỡng cực).
+
+D. Tâm thần phân liệt thể hoang tưởng.
+
+Nguồn: Lithium – Trang 67
+
+
+
+Câu 12. Thuốc kích thích thần kinh trung ương nào sau đây có tác dụng chọn lọc trên tủy sống, thường dùng trị suy nhược, mệt mỏi, đái dầm?
+
+A. Cafein.
+
+B. Ephedrin.
+
+C. Amphetamin.
+
+D. Strychnin.
+
+Nguồn: Strychnin – Trang 75
+
+
+
+Câu 13. Fluoxetin và Sertralin thuộc nhóm thuốc chống trầm cảm nào?
+
+A. Thuốc chống trầm cảm 3 vòng (TCA).
+
+B. Thuốc ức chế monoamin oxidase (IMAO).
+
+C. Thuốc ức chế tái thu hồi chọn lọc serotonin (SSRI).
+
+D. Thuốc ức chế tái thu hồi serotonin và norepinephrin (SNRI).
+
+Nguồn: Thuốc ức chế chọn lọc serotonin – Trang 87
+
+
+
+Câu 14. Đặc điểm nổi bật về mặt thời gian tác dụng của hầu hết các thuốc chống trầm cảm (TCA, SSRI, IMAO) là gì?
+
+A. Có tác dụng ngay lập tức sau liều uống đầu tiên.
+
+B. Có tác dụng sau khoảng 2 tuần điều trị.
+
+C. Chỉ có tác dụng khi tiêm tĩnh mạch.
+
+D. Có tác dụng kéo dài suốt đời chỉ sau 1 đợt điều trị 7 ngày.
+
+Nguồn: Đại cương Thuốc trị trầm cảm – Trang 77
+
+
+
+Câu 15. Tác dụng phụ kháng cholinergic của thuốc chống trầm cảm 3 vòng (TCA) gây ra những biểu hiện nào?
+
+A. Hạ huyết áp tư thế, nhịp tim chậm.
+
+B. Khô miệng, táo bón, nhìn mờ, tăng nhãn áp.
+
+C. Tiêu chảy cấp, tăng tiết nước bọt.
+
+D. Hội chứng serotonin cấp tính.
+
+Nguồn: Tác dụng phụ TCA – Trang 82
+
+
+
+PHẦN II. THÔNG HIỂU (10 CÂU)
+
+
+
+Câu 16. Thuốc giảm đau opioid ức chế dẫn truyền cảm giác đau ở cấp độ tế bào thông qua cơ chế nào sau đây?
+
+A. Tăng hoạt tính adenylyl cyclase và tăng dòng Canxi vào tế bào.
+
+B. Ức chế hoạt tính adenylyl cyclase, giảm mở kênh Canxi và tăng dòng Kali ra ngoài tế bào.
+
+C. Kích thích trực tiếp các thụ thể COX tại ngoại biên.
+
+D. Tăng sinh tổng hợp prostaglandin tại sừng sau tủy sống.
+
+Nguồn: Thuốc giảm đau gây nghiện (cơ chế) – Trang 8
+
+
+
+Câu 17. Methadon có đặc điểm dược lý nào khiến nó được ứng dụng làm thuốc cai nghiện opioid (morphin, heroin)?
+
+A. Methadon là chất đối vận hoàn toàn tại thụ thể opioid, không gây tác dụng giảm đau.
+
+B. Methadon gây tiêu chảy mạnh, giúp thải trừ nhanh ma túy khỏi cơ thể.
+
+C. Methadon ít gây táo bón, gây dung nạp chậm và có tác dụng giống morphin nhưng kéo dài.
+
+D. Methadon không hấp thu qua đường tiêu hóa nên rất an toàn.
+
+Nguồn: Methadon – Trang 15
+
+
+
+Câu 18. Vì sao Procain (thuốc gây tê cấu trúc ester) lại có thể gây ra phản ứng dị ứng và không được dùng với sulfamid?
+
+A. Vì Procain bị chuyển hóa tạo thành cấu trúc amin thơm bậc 1 (PABA) đối kháng sulfamid và dễ gây dị ứng.
+
+B. Vì Procain ức chế men chuyển hóa ở gan, làm tích tụ sulfamid.
+
+C. Vì Procain là một amid bền vững không bị phân hủy bởi esterase huyết tương.
+
+D. Vì Procain gây co mạch cực mạnh làm hoại tử mô.
+
+Nguồn: Procain hydroclorid – Trang 40
+
+
+
+Câu 19. Ketamin được phân loại là "thuốc mê phân ly" (dissociative anesthetic). Đặc điểm nào sau đây KHÔNG thuộc về tác dụng của Ketamin?
+
+A. Gây mất ý thức và giảm đau.
+
+B. Gây hạ huyết áp và ức chế hô hấp mạnh.
+
+C. Làm tăng huyết áp.
+
+D. Dùng làm thuốc mê đường tĩnh mạch.
+
+Nguồn: Thuốc mê đường tiêm / Ketamin – Trang 51
+
+
+
+Câu 20. Bệnh nhân điều trị trầm cảm bằng nhóm thuốc IMAO được cảnh báo tuyệt đối KHÔNG ăn các thực phẩm chứa nhiều tyramin (như phô mai ủ men, rượu vang). Nguyên nhân là do:
+
+A. Tyramin làm thuốc IMAO bị mất tác dụng hoàn toàn.
+
+B. Tyramin kết hợp với IMAO gây loét dạ dày cấp tính.
+
+C. Tích tụ tyramin sẽ giải phóng ồ ạt noradrenalin gây cơn tăng huyết áp ác tính nguy hiểm.
+
+D. Tyramin làm tăng chuyển hóa IMAO qua gan gây ngộ độc gan.
+
+Nguồn: IMAO (Chống chỉ định) – Trang 86
+
+
+
+Câu 21. Cơ chế tác dụng của thuốc chống động kinh Acid Valproic có đặc điểm gì nổi bật so với các thuốc khác?
+
+A. Chỉ tác động duy nhất lên kênh Canxi.
+
+B. Là thuốc đa cơ chế: gián tiếp kéo dài sự phục hồi kênh Na+ và tăng sinh tổng hợp GABA trong não.
+
+C. Chẹn chọn lọc kênh K+ mà không ảnh hưởng đến GABA.
+
+D. Làm giảm nồng độ GABA trong khe synap.
+
+Nguồn: Acid valproic – Trang 60
+
+
+
+Câu 22. Việc sử dụng đồng thời thuốc chống trầm cảm 3 vòng (TCA) hoặc SSRI với thuốc IMAO bị chống chỉ định tuyệt đối vì nguy cơ gây ra biến chứng nào?
+
+A. Suy thận cấp.
+
+B. Hội chứng ngoại tháp.
+
+C. Hội chứng serotonin (tăng thân nhiệt, cứng cơ, kích động, hôn mê).
+
+D. Cơn động kinh vắng ý thức.
+
+Nguồn: Chống chỉ định TCA / SSRI – Trang 82, 89
+
+
+
+Câu 23. Trong các thuốc gây tê tại chỗ, việc phối hợp thêm Adrenalin vào ống thuốc tê (ví dụ: Lidocain + Adrenalin) nhằm mục đích gì?
+
+A. Làm giãn mạch để thuốc ngấm nhanh hơn.
+
+B. Trung hòa tính acid của thuốc tê để giảm đau khi tiêm.
+
+C. Co mạch tại chỗ, làm chậm hấp thu thuốc vào máu, kéo dài thời gian gây tê và giảm độc tính toàn thân.
+
+D. Chống lại tác dụng gây co giật của thuốc tê.
+
+Nguồn: Lidocain – Trang 42
+
+
+
+Câu 24. Thuốc an thần giải lo âu Buspiron có điểm gì ưu việt hơn so với nhóm Benzodiazepin (BZD) trong điều trị rối loạn lo âu lan tỏa?
+
+A. Gây giãn cơ và chống động kinh rất mạnh.
+
+B. Tác dụng ngay lập tức sau khi uống 5 phút.
+
+C. Giải lo âu nhưng không giãn cơ, chưa ghi nhận lệ thuộc thuốc, dùng được cho bệnh nhân có tiền sử lạm dụng chất gây nghiện.
+
+D. Giải độc được ngộ độc rượu cấp tính.
+
+Nguồn: Thuốc giải lo âu - buspiron – Trang 32
+
+
+
+Câu 25. Phenytoin và Carbamazepin điều trị động kinh chủ yếu thông qua cơ chế nào?
+
+A. Chẹn kênh Na+ tại não.
+
+B. Chẹn kênh Ca2+.
+
+C. Ức chế phân hủy GABA.
+
+D. Ức chế tái hấp thu Serotonin.
+
+Nguồn: Các nhóm thuốc chống động kinh – Trang 57
+
+
+
+PHẦN III. VẬN DỤNG (10 CÂU)
+
+
+
+Câu 26. Một bệnh nhân nhập viện cấp cứu trong tình trạng hôn mê, thở ngáp cá, đồng tử co nhỏ như đầu đinh ghim, trên tay có vết kim tiêm. Người nhà cho biết bệnh nhân có tiền sử nghiện ma túy. Bác sĩ trực chỉ định ngay một ống thuốc tiêm tĩnh mạch để giải độc. Thuốc đó là:
+
+A. Flumazenil.
+
+B. Naloxon.
+
+C. Diazepam.
+
+D. Thiopental.
+
+Nguồn: Thuốc giảm đau gây nghiện / Đối kháng morphin – Trang 9, 16
+
+
+
+Câu 27. Một bệnh nhân chuẩn bị tiểu phẫu nhổ răng khôn. Bác sĩ nha khoa cần chọn thuốc gây tê tại chỗ. Bệnh nhân khai tiền sử bị dị ứng nổi mề đay, khó thở nghiêm trọng với Procain (nhóm Ester). Bác sĩ nên đổi sang loại thuốc tê nào sau đây để an toàn cho bệnh nhân?
+
+A. Tetracain.
+
+B. Cocain.
+
+C. Benzocain.
+
+D. Lidocain.
+
+Nguồn: Phân loại thuốc gây tê – Trang 36, 42
+
+
+
+Câu 28. Một phụ nữ đang mang thai ở tháng thứ 2 (3 tháng đầu) được chẩn đoán mắc chứng động kinh cơn nhỏ vắng ý thức. Để đảm bảo an toàn cho thai nhi và điều trị hiệu quả thể động kinh này, bác sĩ nên kê đơn thuốc nào?
+
+A. Acid valproic.
+
+B. Phenobarbital.
+
+C. Ethosuximid.
+
+D. Carbamazepin.
+
+Nguồn: Dẫn chất hydantoin / Ethosuximid – Trang 59
+
+
+
+Câu 29. Bệnh nhân đang điều trị rối loạn tâm thần lưỡng cực bằng Lithium. Gần đây bệnh nhân bị viêm khớp và tự ý mua thuốc giảm đau kháng viêm NSAID về uống. Điều gì có khả năng xảy ra do tương tác giữa NSAID và Lithium?
+
+A. NSAID làm mất tác dụng của Lithium khiến bệnh nhân lên cơn hưng cảm.
+
+B. NSAID làm tăng nồng độ Lithium trong máu, nguy cơ gây ngộ độc Lithium (run, lú lẫn, ảo giác).
+
+C. Lithium làm NSAID bị chuyển hóa nhanh thành chất độc hại gan.
+
+D. Hai thuốc đối kháng nhau làm bệnh nhân bị xuất huyết tiêu hóa ồ ạt.
+
+Nguồn: Lithium (Tương tác thuốc) – Trang 68
+
+
+
+Câu 30. Một bệnh nhân bị trầm cảm được bác sĩ kê đơn Fluoxetin (nhóm SSRI). Sau 3 ngày uống thuốc, bệnh nhân quay lại phòng khám than phiền rằng tâm trạng chưa thấy cải thiện gì cả và có ý định bỏ thuốc. Dựa vào dược động học của thuốc trị trầm cảm, cách giải thích và xử trí nào sau đây là ĐÚNG nguyên tắc y khoa?
+
+A. Giải thích rằng thuốc cần khoảng 2 tuần mới bắt đầu có hiệu quả lâm sàng rõ rệt, khuyên bệnh nhân tiếp tục dùng thuốc và theo dõi chặt chẽ.
+
+B. Tăng liều Fluoxetin lên gấp 4 lần ngay lập tức để thuốc có tác dụng.
+
+C. Phối hợp thêm ngay một thuốc nhóm IMAO để cắt cơn trầm cảm cấp.
+
+D. Đổi sang dùng thuốc ngủ Phenobarbital để bệnh nhân quên đi cảm giác buồn chán.
+
+Nguồn: Đại cương thuốc trị trầm cảm / SSRI – Trang 77, 87
+
+
+
+Câu 31. Bệnh nhân bị hen suyễn nặng cần phẫu thuật cấp cứu. Bác sĩ gây mê nên TRÁNH sử dụng thuốc mê tĩnh mạch nào sau đây vì nó có tác dụng phụ làm giảm hoạt động phế quản và gây co thắt thanh phế quản?
+
+A. Ketamin.
+
+B. Propofol.
+
+C. Thiopental Na.
+
+D. Fentanyl.
+
+Nguồn: Thuốc mê đường tiêm / Thiopental Na – Trang 52
+
+
+
+Câu 32. Bệnh nhân đang uống Acid valproic để trị động kinh, nay được bác sĩ kê thêm Phenytoin. Bác sĩ dặn dò phải xét nghiệm máu thường xuyên vì Acid valproic là chất ức chế mạnh CYP2C9. Việc ức chế men này dẫn đến hậu quả gì trên lâm sàng?
+
+A. Làm Phenytoin bị thải trừ quá nhanh, mất tác dụng chống động kinh.
+
+B. Làm giảm nồng độ Acid valproic, gây tái phát cơn co giật.
+
+C. Làm tăng nồng độ Phenytoin trong máu, có nguy cơ gây ngộ độc Phenytoin.
+
+D. Làm hai thuốc kết tủa trong dạ dày không hấp thu được.
+
+Nguồn: Acid valproic (Tương tác thuốc) – Trang 60
+
+
+
+Câu 33. Một thanh niên lạm dụng chất ma túy kích thích (Amphetamin) nhập viện trong tình trạng kích động mạnh, hoang tưởng, nhịp tim nhanh, huyết áp tăng cao. Về mặt lý thuyết dược lý, thuốc nào sau đây thuộc nhóm ức chế TKTW có thể được dùng để tiêm tĩnh mạch cắt cơn kích động, kiểm soát co giật cho bệnh nhân này?
+
+A. Cafein.
+
+B. Niketamid.
+
+C. Diazepam.
+
+D. Amitriptylin.
+
+Nguồn: Benzodiazepin (Tác dụng) – Trang 26
+
+
+
+Câu 34. Bệnh nhân nữ 45 tuổi bị đau dây thần kinh mạn tính (đau thần kinh). Bác sĩ có thể dùng thuốc chống trầm cảm nào sau đây để tận dụng tác dụng phụ giảm đau mạn tính của nó?
+
+A. Amitriptylin.
+
+B. Lithium.
+
+C. Haloperidol.
+
+D. Zolpidem.
+
+Nguồn: Thuốc chống trầm cảm 3 vòng (Chỉ định) – Trang 81
+
+
+
+Câu 35. Bệnh nhân đang dùng thuốc chống động kinh Carbamazepin, bệnh nhân đồng thời đang sử dụng thuốc tránh thai đường uống. Bác sĩ khuyên bệnh nhân không nên dùng kết hợp hai loại này mà cần dùng biện pháp tránh thai khác. Nguyên nhân là do:
+
+A. Carbamazepin và thuốc tránh thai kết hợp gây dị tật bẩm sinh ngay lập tức.
+
+B. Carbamazepin gây cảm ứng men gan, làm tăng chuyển hóa và giảm hiệu quả của thuốc tránh thai.
+
+C. Thuốc tránh thai làm tăng độc tính gan của Carbamazepin.
+
+D. Carbamazepin gây tăng tiết hormon sinh dục nữ bất thường.
+
+Nguồn: Thuốc chống động kinh khác (Carbamazepin) – Trang 61
+
+
+
+PHẦN IV. VẬN DỤNG CAO (5 CÂU)
+
+
+
+Câu 36. Một bệnh nhân nam 50 tuổi cần phẫu thuật ổ bụng kéo dài. Quy trình gây mê được thiết lập gồm 4 bước: (1) Tiền mê để giảm tiết dịch và ngăn chậm nhịp tim; (2) Tiền mê dịu thần kinh, làm quên sự kiện; (3) Khởi mê làm mất ý thức nhanh; (4) Tiêm thuốc làm giãn cơ vân để dễ đặt nội khí quản và phẫu thuật. Hãy chọn bộ thuốc tương ứng ĐÚNG NHẤT theo thứ tự 4 bước trên.
+
+A. (1) Atropin, (2) Midazolam, (3) Propofol, (4) Succinylcholin.
+
+B. (1) Succinylcholin, (2) Fentanyl, (3) Ketamin, (4) Atropin.
+
+C. (1) Midazolam, (2) Atropin, (3) Halothan, (4) Diazepam.
+
+D. (1) Adrenalin, (2) Thiopental, (3) Propofol, (4) Naloxon.
+
+Nguồn: Thuốc mê / Phân loại thuốc tiền mê và cơ chế – Trang 48, 49
+
+
+
+Câu 37. Bệnh nhân tâm thần phân liệt đang được điều trị bằng Haloperidol (dẫn xuất butyrophenon). Sau một thời gian, bệnh nhân xuất hiện các triệu chứng cứng cơ, run tay chân, vận động chậm chạp (giống bệnh Parkinson). Cơ sở dược lý nào giải thích chính xác nhất hội chứng ngoại tháp này?
+
+A. Do thuốc ức chế thụ thể Muscarinic ở hạch giao cảm.
+
+B. Do thuốc ức chế mạnh receptor dopaminergic D2 ở vùng nhân xám trung ương của não.
+
+C. Do thuốc kích thích quá mức hệ serotoninergic.
+
+D. Do thuốc làm cạn kiệt lượng acetylcholin tại bản vận động cơ xương.
+
+Nguồn: Thuốc ức chế tâm thần (C Cơ chế) – Trang 66
+
+
+
+Câu 38. Bệnh nhân được tiêm thuốc tê Procain nhưng thuốc không đem lại hiệu quả giảm đau mong muốn mà bị vô hoạt rất nhanh. Biết rằng Procain có cấu trúc ester. Yếu tố sinh lý nào trong cơ thể bệnh nhân chịu trách nhiệm chính cho sự mất tác dụng nhanh chóng này?
+
+A. Men CYP450 ở gan tăng cường hoạt động phân giải amid.
+
+B. Thuốc bị chuyển hóa và phá hủy nhanh chóng bởi các enzym esterase có trong huyết tương và gan.
+
+C. Sự lọc quá mức của thận ở bệnh nhân tiểu đường.
+
+D. Bệnh nhân có quá nhiều thụ thể Na+ ở màng tế bào thần kinh.
+
+Nguồn: Procain hydroclorid – Trang 40
+
+
+
+Câu 39. Bệnh nhân nghiện heroin đang tham gia chương trình cai nghiện. Bác sĩ kê đơn Methadon dạng uống thay thế heroin. Bệnh nhân thắc mắc tại sao không cắt cơn bằng cách tiêm Naloxon ngay từ đầu cho dứt điểm. Dưới góc độ dược lý lâm sàng, giải thích nào sau đây hợp lý nhất?
+
+A. Tiêm Naloxon cho người đang lệ thuộc opioid sẽ gây hội chứng cai nghiện cấp tính (vật vã, tiêu chảy, lo lắng tột độ) rất nguy hiểm, trong khi Methadon giúp giảm liều từ từ mà không gây hội chứng cai nặng.
+
+B. Naloxon là thuốc kích thích TKTW, nếu tiêm sẽ làm bệnh nhân lên cơn động kinh.
+
+C. Methadon có tác dụng gây hưng phấn mạnh gấp 10 lần heroin nên bệnh nhân dễ chấp nhận hơn.
+
+D. Naloxon không có tác dụng trên người nghiện heroin, chỉ dùng giải độc thuốc trừ sâu.
+
+Nguồn: Thuốc đối kháng morphin & Methadon – Trang 15, 16
+
+
+
+Câu 40. Bệnh nhân trầm cảm nặng, đã được dùng Fluoxetin (SSRI) suốt 6 tháng nhưng không đáp ứng. Bác sĩ quyết định chuyển sang dùng thuốc IMAO (như Tranylcypromin). Nhằm tránh Hội chứng Serotonin có thể đe dọa tính mạng, nguyên tắc phối hợp thuốc (wash-out period) nào sau đây BẮT BUỘC phải thực hiện?
+
+A. Có thể uống IMAO ngay ngày hôm sau khi ngừng Fluoxetin vì chúng khác cơ chế.
+
+B. Phải ngừng Fluoxetin một thời gian đủ dài (do chất chuyển hóa norfluoxetine có t1/2 > 100 giờ) trước khi bắt đầu dùng IMAO để tránh tích lũy serotonin quá mức.
+
+C. Uống đồng thời cả Fluoxetin và IMAO nhưng giảm nửa liều mỗi loại.
+
+D. Tiêm tĩnh mạch IMAO để thuốc qua gan lần đầu, tránh tương tác với Fluoxetin ở ruột.
+
+Nguồn: Thuốc ức chế chọn lọc serotonin (Dược động học & Tương tác) – Trang 87, 89
+
+
+
+
+
+ĐÁP ÁN VÀ GIẢI THÍCH CHI TIẾT
+
+
+
+Câu 01: B
+
+Giải thích: Thuốc giảm đau gây nghiện tự nhiên (Opiates) và Morphin được chiết xuất từ nhựa cây Anh túc (Tên khoa học: Papaver somniferum L.).
+
+Nguồn: Thuốc giảm đau gây nghiện – Trang 8, 11
+
+Câu 02: C
+
+Giải thích: Opioid làm giảm nhu động ruột, do đó tác dụng phụ phổ biến và đặc trưng trên hệ tiêu hóa của Morphin là gây táo bón.
+
+Nguồn: Thuốc giảm đau gây nghiện trên hệ tiêu hoá – Trang 9
+
+Câu 03: C
+
+Giải thích: Naloxon là thuốc đối kháng morphin, có tác dụng đảo ngược tác động của chất chủ vận (đẩy morphin ra khỏi thụ thể), chuyên dùng giải độc quá liều opioid.
+
+Nguồn: Thuốc đối kháng morphin – Trang 16
+
+Câu 04: B
+
+Giải thích: Thiopental là một barbiturat có thời gian tác dụng rất ngắn (30-60 phút), được dùng làm thuốc khởi mê tĩnh mạch.
+
+Nguồn: Barbiturat – Trang 21
+
+Câu 05: A
+
+Giải thích: Chất giải độc đặc hiệu đối với ngộ độc Benzodiazepin là flumazenil.
+
+Nguồn: Benzodiazepin (Tác dụng không mong muốn) – Trang 27
+
+Câu 06: B
+
+Giải thích: Zolpidem (Z-drug) gắn chọn lọc vào receptor BZB1 ở TKTW, chủ yếu có tác dụng an thần gây ngủ nhanh, ít gây lệ thuộc, không thuộc nhóm BZD truyền thống hay Barbiturat.
+
+Nguồn: Zolpidem, zopiclon – Trang 29
+
+Câu 07: D
+
+Giải thích: Dựa vào phân loại theo cấu trúc, Procain (cùng với Tetracain, Cocain, Benzocain) thuộc nhóm Ester. Các thuốc có chữ "i" trước "-cain" (như Lidocain, Bupivacain) thường thuộc nhóm Amid.
+
+Nguồn: Phân loại thuốc gây tê – Trang 36
+
+Câu 08: B
+
+Giải thích: N2O (khí cười) là chất khí, thuộc phân loại thuốc mê đường hô hấp (cùng nhóm với halothan, sevofluran).
+
+Nguồn: Phân loại thuốc mê – Trang 50
+
+Câu 09: C
+
+Giải thích: Ethosuximid là thuốc chọn lọc trên cơn nhỏ vắng ý thức và là thuốc an toàn có thể dùng được cho phụ nữ có thai (PNCT) 3 tháng đầu thai kỳ.
+
+Nguồn: Dẫn chất hydantoin / Ethosuximid – Trang 59
+
+Câu 10: B
+
+Giải thích: Cơ chế chính của thuốc ức chế tâm thần (an thần kinh mạnh) như Chlorpromazin và Haloperidol là ức chế receptor dopaminergic D2 ở não.
+
+Nguồn: Thuốc ức chế tâm thần – Trang 66
+
+Câu 11: C
+
+Giải thích: Lithium được chỉ định đặc trị để phòng và điều trị cơn, tái phát hưng cảm và trầm cảm (rối loạn tâm thần lưỡng cực).
+
+Nguồn: Lithium – Trang 67
+
+Câu 12: D
+
+Giải thích: Strychnin (chiết xuất từ hạt Mã tiền) kích thích TKTW chọn lọc trên tủy sống, làm tăng dinh dưỡng cơ, trị suy nhược, đái dầm.
+
+Nguồn: Strychnin – Trang 75
+
+Câu 13: C
+
+Giải thích: Fluoxetin, Sertralin, Paroxetin thuộc nhóm SSRI (Selective Serotonin Reuptake Inhibitor - Ức chế tái thu hồi chọn lọc serotonin).
+
+Nguồn: Thuốc ức chế chọn lọc serotonin – Trang 87
+
+Câu 14: B
+
+Giải thích: Đa số các thuốc chống trầm cảm (cả TCA, SSRI, IMAO, SNRI) đều cần khoảng thời gian 2 tuần điều trị liên tục mới bắt đầu bộc lộ hiệu quả lâm sàng rõ rệt.
+
+Nguồn: Đại cương Thuốc trị trầm cảm – Trang 77
+
+Câu 15: B
+
+Giải thích: Tác dụng phụ "kháng cholinergic" (kháng muscarinic) của TCA bao gồm: khô miệng, táo bón, nhìn mờ, tăng nhãn áp.
+
+Nguồn: Tác dụng phụ TCA – Trang 82
+
+Câu 16: B
+
+Giải thích: Cơ chế phân tử của Opioid là: Ức chế hoạt tính adenylyl cyclase, giảm mở kênh Ca2+ (giảm phóng thích chất dẫn truyền đau) và tăng dòng K+ ra ngoài tế bào (gây ưu phân cực).
+
+Nguồn: Thuốc giảm đau gây nghiện (cơ chế) – Trang 8
+
+Câu 17: C
+
+Giải thích: Methadon có tác dụng giống morphin nhưng hấp thu tốt qua tiêu hóa, ít gây táo bón, gây dung nạp chậm nên rất thích hợp để thay thế heroin trong phác đồ cai nghiện, giảm liều từ từ.
+
+Nguồn: Methadon – Trang 15
+
+Câu 18: A
+
+Giải thích: Procain cấu trúc ester bị chuyển hóa ở gan/huyết tương tạo thành PABA (para-aminobenzoic acid) - một amin thơm bậc 1. Chất này gây dị ứng và đối kháng tác dụng của kháng sinh sulfamid.
+
+Nguồn: Procain hydroclorid – Trang 40
+
+Câu 19: B
+
+Giải thích: Ketamin là thuốc mê phân ly, điểm khác biệt là nó làm TĂNG huyết áp (không hạ) và ít ức chế hô hấp so với các thuốc mê tĩnh mạch khác.
+
+Nguồn: Thuốc mê đường tiêm / Ketamin – Trang 51
+
+Câu 20: C
+
+Giải thích: IMAO ức chế men phân hủy amin. Nếu ăn thức ăn nhiều tyramin, tyramin không bị phân hủy, tích tụ lại giải phóng ồ ạt noradrenalin gây ra "cơn tăng huyết áp ác tính" nguy hiểm chết người.
+
+Nguồn: IMAO (Chống chỉ định) – Trang 86
+
+Câu 21: B
+
+Giải thích: Acid Valproic có đa cơ chế: vừa gián tiếp kéo dài sự phục hồi kênh Na+, vừa tăng sinh tổng hợp GABA trong não, do đó trị được nhiều thể động kinh.
+
+Nguồn: Acid valproic – Trang 60
+
+Câu 22: C
+
+Giải thích: Phối hợp TCA hoặc SSRI (làm tăng serotonin) với IMAO (ngăn phân hủy serotonin) sẽ làm dư thừa serotonin nội bào quá mức, gây Hội chứng serotonin cấp tính rất nguy hiểm.
+
+Nguồn: Chống chỉ định TCA / SSRI – Trang 82, 89
+
+Câu 23: C
+
+Giải thích: Adrenalin gây co mạch ngoại vi. Phối hợp với thuốc tê giúp thuốc tê không bị hấp thu nhanh vào tuần hoàn chung, giữ nồng độ tại chỗ cao (kéo dài thời gian tê) và giảm độc tính toàn thân.
+
+Nguồn: Lidocain – Trang 42
+
+Câu 24: C
+
+Giải thích: Buspiron giải lo âu theo cơ chế ức chế serotonin, không làm giãn cơ, không gây lệ thuộc thuốc như BZD, nên an toàn cho người có tiền sử nghiện chất.
+
+Nguồn: Thuốc giải lo âu - buspiron – Trang 32
+
+Câu 25: A
+
+Giải thích: Phenytoin và Carbamazepin là các thuốc chống động kinh kinh điển hoạt động bằng cơ chế chẹn kênh Na+ tại tế bào thần kinh não.
+
+Nguồn: Các nhóm thuốc chống động kinh – Trang 57
+
+Câu 26: B
+
+Giải thích: Triệu chứng hô hấp yếu, đồng tử đinh ghim, tiền sử nghiện chỉ điểm ngộ độc Heroin/Morphin. Cấp cứu tiêm tĩnh mạch Naloxon (chất đối kháng) để đảo ngược ngộ độc ngay lập tức.
+
+Nguồn: Thuốc giảm đau gây nghiện / Đối kháng morphin – Trang 9, 16
+
+Câu 27: D
+
+Giải thích: Dị ứng với cấu trúc Ester (Procain, Tetracain, Benzocain, Cocain) là dị ứng chéo. Để an toàn, phải đổi sang nhóm Amid. Lidocain thuộc nhóm Amid.
+
+Nguồn: Phân loại thuốc gây tê – Trang 36, 42
+
+Câu 28: C
+
+Giải thích: Ethosuximid là thuốc chọn lọc tốt nhất cho cơn vắng ý thức và được đánh giá an toàn cho phụ nữ có thai (PNCT) 3 tháng đầu, trong khi Acid valproic, Carbamazepin gây quái thai/độc tính cao hơn.
+
+Nguồn: Dẫn chất hydantoin / Ethosuximid – Trang 59
+
+Câu 29: B
+
+Giải thích: Lithium tương tác với NSAID. NSAID làm tăng nồng độ Lithium trong máu (do làm giảm bài tiết ở thận), dẫn đến ngộ độc Lithium.
+
+Nguồn: Lithium (Tương tác thuốc) – Trang 68
+
+Câu 30: A
+
+Giải thích: SSRI (Fluoxetin) cần thời gian tích lũy chất truyền tin thần kinh, thường mất khoảng 2 tuần để bộc lộ tác dụng rõ rệt. Không được tăng liều sốc, không được phối hợp IMAO (gây hội chứng serotonin). Bác sĩ cần giải thích để bệnh nhân kiên nhẫn.
+
+Nguồn: Đại cương thuốc trị trầm cảm / SSRI – Trang 77, 87
+
+Câu 31: C
+
+Giải thích: Thiopental Na làm giảm hoạt động phế quản và có thể gây co thắt thanh phế quản trầm trọng. Đây là rủi ro lớn đối với bệnh nhân hen suyễn.
+
+Nguồn: Thuốc mê đường tiêm / Thiopental Na – Trang 52
+
+Câu 32: C
+
+Giải thích: Acid Valproic ức chế men CYP2C9 (men phân giải Phenytoin). Ức chế men này làm Phenytoin không bị chuyển hóa, tích tụ trong máu, làm nồng độ Phenytoin tăng vọt gây ngộ độc.
+
+Nguồn: Acid valproic (Tương tác thuốc) – Trang 60
+
+Câu 33: C
+
+Giải thích: Ngộ độc ma túy kích thích (Amphetamin) gây kích động, co giật. Diazepam (Benzodiazepin) có tác dụng an thần, chống co giật, giải lo âu, làm dịu TKTW, là biện pháp cắt cơn kích động phù hợp.
+
+Nguồn: Benzodiazepin (Tác dụng) – Trang 26
+
+Câu 34: A
+
+Giải thích: Amitriptylin là thuốc TCA, ngoài chỉ định trầm cảm còn có chỉ định rất tốt trong điều trị đau mạn tính (đặc biệt là đau có nguồn gốc thần kinh).
+
+Nguồn: Thuốc chống trầm cảm 3 vòng (Chỉ định) – Trang 81
+
+Câu 35: B
+
+Giải thích: Carbamazepin không kết hợp được với thuốc tránh thai vì nó là chất cảm ứng men gan mạnh, tăng tốc độ phá hủy thuốc tránh thai ở gan, làm mất tác dụng tránh thai.
+
+Nguồn: Thuốc chống động kinh khác (Carbamazepin) – Trang 61
+
+Câu 36: A
+
+Giải thích: Theo sơ đồ phối hợp gây mê chuẩn: (1) Atropin (Tiền mê - liệt đối giao cảm, giảm tiết, ngăn phản xạ phế vị); (2) Midazolam (Tiền mê - an thần BZD); (3) Propofol (Khởi mê làm mất ý thức); (4) Succinylcholin (Giãn cơ đặt ống).
+
+Nguồn: Thuốc mê / Phân loại thuốc tiền mê và cơ chế – Trang 48, 49
+
+Câu 37: B
+
+Giải thích: Haloperidol ức chế mạnh thụ thể dopaminergic D2 ở não. Sự ức chế D2 tại thể vân (vùng chi phối vận động) gây ra sự mất cân bằng Dopamin-Acetylcholin, dẫn đến hội chứng ngoại tháp giả Parkinson.
+
+Nguồn: Thuốc ức chế tâm thần (Cơ chế) – Trang 66
+
+Câu 38: B
+
+Giải thích: Cấu trúc Ester của Procain làm nó không bền, dễ dàng bị thủy phân và phá hủy rất nhanh chóng bởi hệ thống men esterase dồi dào có mặt trong huyết tương và mô gan, khiến nó không dùng làm thuốc tê bề mặt được và tác dụng tiêm ngắn.
+
+Nguồn: Procain hydroclorid – Trang 40
+
+Câu 39: A
+
+Giải thích: Khi cơ thể ĐANG có morphin/heroin (đã dung nạp và lệ thuộc), việc đưa thuốc ĐỐI KHÁNG như Naloxon sẽ lập tức tước bỏ tác dụng chủ vận, đẩy cơ thể vào hội chứng cai nghiện cấp tính vật vã dữ dội. Dùng Methadon (chất chủ vận yếu hơn, t1/2 dài) để hạ bậc dung nạp từ từ mới là phương pháp cai nghiện an toàn.
+
+Nguồn: Thuốc đối kháng morphin & Methadon – Trang 15, 16
+
+Câu 40: B
+
+Giải thích: Fluoxetin có chất chuyển hóa norfluoxetine với thời gian bán thải (t1/2) cực kỳ dài (> 100 giờ, tương đương vài tuần). Dù đã ngừng uống, thuốc vẫn còn nồng độ cao trong não. Nếu uống IMAO ngay, sự ức chế phân giải phối hợp với tái thu hồi bị phong tỏa sẽ kích hoạt Hội chứng Serotonin. Bắt buộc phải có thời gian rửa trôi (wash-out) kéo dài khoảng 5 tuần.
+
+Nguồn: Thuốc ức chế chọn lọc serotonin (Dược động học & Tương tác) – Trang 87, 89
+
+
+
+BẢNG ĐÁP ÁN TỔNG HỢP:
+
+Câu 01: B
+
+Câu 02: C
+
+Câu 03: C
+
+Câu 04: B
+
+Câu 05: A
+
+Câu 06: B
+
+Câu 07: D
+
+Câu 08: B
+
+Câu 09: C
+
+Câu 10: B
+
+Câu 11: C
+
+Câu 12: D
+
+Câu 13: C
+
+Câu 14: B
+
+Câu 15: B
+
+Câu 16: B
+
+Câu 17: C
+
+Câu 18: A
+
+Câu 19: B
+
+Câu 20: C
+
+Câu 21: B
+
+Câu 22: C
+
+Câu 23: C
+
+Câu 24: C
+
+Câu 25: A
+
+Câu 26: B
+
+Câu 27: D
+
+Câu 28: C
+
+Câu 29: B
+
+Câu 30: A
+
+Câu 31: C
+
+Câu 32: C
+
+Câu 33: C
+
+Câu 34: A
+
+Câu 35: B
+
+Câu 36: A
+
+Câu 37: B
+
+Câu 38: B
+
+Câu 39: A
+
+Câu 40: B
+
+
+
+
+Nguồn tài liệu: [BUỔI 4] bài. Thuốc tim mạch.pdf
+
+Tổng số câu: 40 câu.
+
+Hình thức: Trắc nghiệm 4 lựa chọn A, B, C, D.
+
+
+
+PHẦN I. NHẬN BIẾT (15 CÂU)
+
+
+
+Câu 1. Theo định nghĩa, huyết áp (HA) là gì?
+
+A. Là sức cản của thành mạch đối với lưu lượng máu ngoại vi.
+
+B. Là áp lực của máu lên thành động mạch.
+
+C. Là thể tích máu được tim bơm ra trong một phút.
+
+D. Là áp lực của máu lên thành tĩnh mạch chủ.
+
+Nguồn: Huyết áp – Trang 4
+
+
+
+Câu 2. Nhóm thuốc lợi tiểu nào sau đây được xem là lựa chọn hàng đầu trong điều trị tăng huyết áp?
+
+A. Lợi tiểu quai (Furosemid).
+
+B. Lợi tiểu tiết kiệm kali (Amilorid).
+
+C. Lợi tiểu Thiazid (Hydrochlorothiazid).
+
+D. Chẹn thụ thể aldosteron (Spironolacton).
+
+Nguồn: Thuốc lợi tiểu – Trang 8
+
+
+
+Câu 3. Thuốc nào sau đây thuộc nhóm thuốc ức chế men chuyển angiotensin (ACEI)?
+
+A. Losartan.
+
+B. Amlodipin.
+
+C. Captopril.
+
+D. Propranolol.
+
+Nguồn: Thuốc điều trị tăng huyết áp – Trang 31
+
+
+
+Câu 4. Glycosid tim (như Digoxin) có tác dụng nào sau đây trên cơ tim?
+
+A. Làm giảm lực co bóp của cơ tim.
+
+B. Tăng sức co bóp của cơ tim.
+
+C. Làm tăng nhịp tim tối đa.
+
+D. Giãn cơ tim trực tiếp.
+
+Nguồn: Thuốc trợ tim – Trang 35, 36
+
+
+
+Câu 5. Trong điều trị đau thắt ngực, thuốc thuộc nhóm Nitrat hữu cơ có tác dụng chính là gì?
+
+A. Ức chế thụ thể beta-adrenergic.
+
+B. Chẹn kênh calci ở màng tế bào.
+
+C. Giải phóng NO (nitric oxid) làm tăng cGMP, gây giãn mạch.
+
+D. Ức chế kết tập tiểu cầu.
+
+Nguồn: Nitrat hữu cơ – Trang 44
+
+
+
+Câu 6. Theo phân loại Vaughan Williams, thuốc chống loạn nhịp nhóm III (như Amiodaron) có cơ chế tác dụng chính là gì?
+
+A. Ức chế kênh Na+.
+
+B. Ức chế beta-adrenergic.
+
+C. Ức chế kênh Ca2+.
+
+D. Ức chế kênh K+.
+
+Nguồn: Phân loại thuốc chống loạn nhịp – Trang 56
+
+
+
+Câu 7. Thuốc chống loạn nhịp Lidocain thuộc phân nhóm nào sau đây?
+
+A. Nhóm IA.
+
+B. Nhóm IB.
+
+C. Nhóm IC.
+
+D. Nhóm II.
+
+Nguồn: Phân loại thuốc chống loạn nhịp – Trang 56
+
+
+
+Câu 8. Vitamin K thuộc nhóm thuốc nào trong điều trị rối loạn đông máu?
+
+A. Thuốc chống đông máu đường uống.
+
+B. Thuốc làm đông máu toàn thân.
+
+C. Thuốc chống kết tập tiểu cầu.
+
+D. Thuốc phân giải fibrin.
+
+Nguồn: Thuốc làm đông máu – Trang 70
+
+
+
+Câu 9. Thuốc chống đông máu Heparin thường được sử dụng qua đường nào?
+
+A. Đường uống.
+
+B. Đặt dưới lưỡi.
+
+C. Đường tiêm (IV hoặc SC).
+
+D. Khí dung.
+
+Nguồn: Thuốc chống đông máu / Thuốc chống đông đường tiêm – Trang 71, 74
+
+
+
+Câu 10. Ở liều thấp (30 - 300 mg), Aspirin có tác dụng gì trong điều trị bệnh tim mạch?
+
+A. Chống đông máu bằng cách kháng vitamin K.
+
+B. Phân giải sợi huyết (fibrin).
+
+C. Chống kết tập tiểu cầu bằng cách ức chế COX1.
+
+D. Làm tăng tổng hợp Thromboxan A2.
+
+Nguồn: Thuốc chống kết tập tiểu cầu – Trang 76
+
+
+
+Câu 11. Theo phân loại rối loạn lipid máu, typ IIa đặc trưng bởi sự gia tăng của thành phần nào?
+
+A. Tăng Triglycerid và VLDL.
+
+B. Tăng Cholesterol và LDL.
+
+C. Tăng Chylomicron.
+
+D. Tăng HDL.
+
+Nguồn: Phân loại rối loạn lipid máu – Trang 81
+
+
+
+Câu 12. Thuốc Cholestyramin thuộc nhóm thuốc nào trong điều trị rối loạn lipid máu?
+
+A. Nhóm Statin.
+
+B. Nhóm Fibrat.
+
+C. Nhóm Resin (nhựa gắn acid mật).
+
+D. Nhóm Acid béo chưa no (Omega-3).
+
+Nguồn: Thuốc điều trị rối loạn lipid máu – Trang 83
+
+
+
+Câu 13. Cơ chế tác dụng của nhóm Statin là gì?
+
+A. Ức chế hấp thu cholesterol ở ruột.
+
+B. Tăng hoạt tính lipoprotein lipase.
+
+C. Đối kháng cạnh tranh với HMG-CoA reductase.
+
+D. Tạo phức với acid mật, làm giảm nhũ hóa lipid.
+
+Nguồn: Thuốc giảm tổng hợp lipid / Statin – Trang 88
+
+
+
+Câu 14. Fenofibrat là thuốc được ưu tiên chỉ định trong trường hợp nào?
+
+A. Tăng Triglycerid.
+
+B. Rối loạn nhịp tim.
+
+C. Suy tim cấp.
+
+D. Giảm hấp thu acid mật.
+
+Nguồn: Thuốc giảm tổng hợp lipid / Fibrat – Trang 87, 93
+
+
+
+Câu 15. Nồng độ có hiệu lực trong huyết tương của Digoxin là bao nhiêu?
+
+A. 10 - 25 ng/ml.
+
+B. > 35 ng/ml.
+
+C. 0,5 - 2 ng/ml.
+
+D. > 2 ng/ml.
+
+Nguồn: Bảng so sánh Digoxin và Digitoxin – Trang 38
+
+
+
+PHẦN II. THÔNG HIỂU (10 CÂU)
+
+
+
+Câu 16. Cơ chế hạ huyết áp của Methyldopa (thuốc hủy giao cảm trung ương) là gì?
+
+A. Ức chế trực tiếp men chuyển angiotensin I thành angiotensin II.
+
+B. Chẹn trực tiếp thụ thể alpha-1 ngoại biên gây giãn mạch.
+
+C. Tạo chất trung gian giả kích thích thụ thể alpha-2 trung ương, làm giảm phóng thích catecholamin.
+
+D. Lợi tiểu, làm giảm thể tích tuần hoàn.
+
+Nguồn: Thuốc huỷ giao cảm trung ương – Trang 10
+
+
+
+Câu 17. Vì sao nhóm thuốc ức chế thụ thể Angiotensin II (ARB) lại ít gây ho khan hơn so với nhóm ức chế men chuyển (ACEI)?
+
+A. Vì ARB không tác dụng trên bradykinin, không làm tích lũy prostaglandin ở phổi.
+
+B. Vì ARB ức chế trực tiếp sự tạo thành bradykinin.
+
+C. Vì ARB giãn mạch ngoại vi mạnh hơn.
+
+D. Vì ARB làm tăng bài tiết bradykinin qua nước tiểu.
+
+Nguồn: Thuốc ức chế angiotensin II tại receptor (ARB) – Trang 28
+
+
+
+Câu 18. Nguyên tắc "3R" (Mạnh, Chậm, Điều hòa) của Glycosid tim trên cơ tim được giải thích như thế nào?
+
+A. Tăng nhịp tim, giảm co bóp, tăng dẫn truyền.
+
+B. Tăng sức co bóp, giảm nhịp tim, giảm dẫn truyền (tăng tính trơ).
+
+C. Giảm sức co bóp, tăng nhịp tim, giảm dẫn truyền.
+
+D. Tăng giãn mạch, tăng lợi tiểu, tăng nhịp tim.
+
+Nguồn: Glycosid tim – Trang 36
+
+
+
+Câu 19. Trong điều trị đau thắt ngực, cơ chế chính giúp thuốc chẹn kênh calci (nhóm DHP và Non-DHP) làm giảm triệu chứng là gì?
+
+A. Tăng nhịp tim để bù trừ lượng máu thiếu hụt.
+
+B. Giãn cơ tim, giảm lực co bóp, chậm nhịp tim (giảm nhu cầu oxy) và giãn mạch vành, mạch ngoại vi (tăng cung cấp oxy, giảm hậu gánh).
+
+C. Gây co mạch ngoại vi để đẩy máu về tim.
+
+D. Phân hủy trực tiếp cục máu đông trong động mạch vành.
+
+Nguồn: Thuốc chẹn kênh Calci – Trang 48
+
+
+
+Câu 20. Coumarin và dẫn chất (như Warfarin) có tác dụng chống đông máu dựa trên cơ chế nào?
+
+A. Vô hiệu hóa trực tiếp Thrombin trong máu.
+
+B. Tăng cường hoạt tính của Antithrombin nội sinh.
+
+C. Ức chế kết tập tiểu cầu qua receptor P2Y12.
+
+D. Đối kháng vitamin K, ức chế cạnh tranh enzym epoxid-reductase, ngăn tổng hợp yếu tố đông máu.
+
+Nguồn: Thuốc chống đông đường uống – Trang 72
+
+
+
+Câu 21. Sự khác biệt cơ bản về tác dụng trên tim và mạch giữa nhóm Dihydropyridin (DHP) và Non-DHP (như Verapamil) là gì?
+
+A. DHP tác dụng ưu thế trên tim, Non-DHP tác dụng ưu thế trên mạch.
+
+B. DHP tác dụng ưu thế trên mạch ngoại vi, Non-DHP tác dụng ưu thế trên tim (giảm nhịp, giảm co bóp).
+
+C. Cả hai nhóm đều không có tác dụng trên cơ tim.
+
+D. Non-DHP chỉ gây giãn mạch vành, không ảnh hưởng đến nhịp tim.
+
+Nguồn: Thuốc ức chế kênh calci (CCB) – Trang 22, 47
+
+
+
+Câu 22. Clopidogrel có cơ chế chống kết tập tiểu cầu như thế nào?
+
+A. Ức chế men COX1 ở tiểu cầu.
+
+B. Tăng tạo Plasmin từ Plasminogen.
+
+C. Ức chế receptor P2Y12 ADP, ngăn cản gắn kết ADP lên tiểu cầu.
+
+D. Cung cấp Vitamin K dạng khử.
+
+Nguồn: Thuốc chống kết tập tiểu cầu – Trang 78
+
+
+
+Câu 23. Trong quá trình điều trị bằng Statin, tại sao bác sĩ cần yêu cầu bệnh nhân kiểm tra men gan (GOT, GPT) định kỳ?
+
+A. Vì Statin kích thích gan sản xuất quá mức dịch mật.
+
+B. Vì Statin có thể gây tăng transaminase và viêm cơ, suy thận cấp.
+
+C. Vì Statin làm tăng nguy cơ sỏi túi mật.
+
+D. Vì Statin bị thải trừ 100% qua thận, không qua gan.
+
+Nguồn: Thuốc giảm tổng hợp lipid / Statin (ADR) – Trang 90
+
+
+
+Câu 24. Omega-3 (Acid béo chưa no) chủ yếu có tác dụng điều chỉnh thành phần nào trong mỡ máu?
+
+A. Giảm LDL cực mạnh.
+
+B. Tăng Chylomicron.
+
+C. Tăng mạnh HDL.
+
+D. Giảm Triglycerid và VLDL, ít ảnh hưởng đến LDL và HDL.
+
+Nguồn: Thuốc giảm tổng hợp lipid / Acid béo chưa no – Trang 92
+
+
+
+Câu 25. Protamin sulfat được sử dụng với mục đích gì trong thực hành tim mạch?
+
+A. Cấp cứu ngộ độc Heparin.
+
+B. Cấp cứu ngộ độc Warfarin.
+
+C. Cấp cứu ngộ độc Aspirin.
+
+D. Làm tan cục máu đông cấp tính.
+
+Nguồn: Thuốc chống đông đường tiêm – Trang 75
+
+
+
+PHẦN III. VẬN DỤNG (10 CÂU)
+
+
+
+Câu 26. Một phụ nữ mang thai tháng thứ 5 được chẩn đoán tăng huyết áp thai kỳ. Thuốc hạ huyết áp nào sau đây là lựa chọn an toàn và phù hợp nhất cho bệnh nhân này?
+
+A. Captopril (ACEI).
+
+B. Losartan (ARB).
+
+C. Methyldopa.
+
+D. Furosemid liều cao.
+
+Nguồn: Thuốc huỷ giao cảm trung ương – Trang 10, 26
+
+
+
+Câu 27. Một bệnh nhân nam 65 tuổi bị tăng huyết áp kèm theo phì đại tuyến tiền liệt lành tính gây bí tiểu. Bác sĩ nên ưu tiên kê nhóm thuốc hạ áp nào để vừa kiểm soát huyết áp vừa cải thiện triệu chứng đường tiểu?
+
+A. Thuốc ức chế alpha-1 adrenergic (Prazosin, Tetrazosin).
+
+B. Thuốc chẹn beta-adrenergic (Propranolol).
+
+C. Thuốc liệt hạch (Trimethaphan).
+
+D. Thuốc lợi tiểu quai (Furosemid).
+
+Nguồn: Thuốc ức chế a-adrenergic – Trang 16
+
+
+
+Câu 28. Bệnh nhân đang sử dụng Enalapril (nhóm ACEI) để điều trị tăng huyết áp nhưng phàn nàn về triệu chứng ho khan dai dẳng ảnh hưởng đến giấc ngủ. Bác sĩ nên đổi sang nhóm thuốc nào sau đây để có hiệu quả tương đương mà tránh được tác dụng phụ này?
+
+A. Thuốc chẹn kênh calci (Amlodipin).
+
+B. Thuốc ức chế thụ thể Angiotensin II (Losartan, Valsartan).
+
+C. Thuốc chẹn beta (Metoprolol).
+
+D. Thuốc lợi tiểu Thiazid.
+
+Nguồn: Thuốc ức chế angiotensin II tại receptor (ARB) – Trang 28
+
+
+
+Câu 29. Bệnh nhân nhập viện vì suy tim cấp, khó thở nặng và có biểu hiện giảm cung lượng tim. Để tăng sức co bóp cơ tim cấp cứu thông qua việc kích thích chọn lọc thụ thể beta-1, bác sĩ nên tiêm truyền tĩnh mạch thuốc nào?
+
+A. Digoxin.
+
+B. Propranolol.
+
+C. Dobutamin.
+
+D. Verapamil.
+
+Nguồn: Thuốc điều trị suy tim / Bảng tóm tắt – Trang 39
+
+
+
+Câu 30. Một bệnh nhân hay bị cơn đau thắt ngực mạn tính do gắng sức. Bác sĩ kê đơn viên nén Nitroglycerin đặt dưới lưỡi để cắt cơn. Bệnh nhân cần được tư vấn về tác dụng phụ phổ biến nào ngay sau khi dùng thuốc?
+
+A. Ho khan dai dẳng.
+
+B. Đau nhói đầu, đỏ bừng mặt, tụt huyết áp thế đứng.
+
+C. Nhịp tim chậm đi đáng kể.
+
+D. Khô miệng và táo bón nặng.
+
+Nguồn: Nitrat hữu cơ / Độc tính – Trang 46
+
+
+
+Câu 31. Bệnh nhân A đang điều trị rung nhĩ bằng Amiodaron trong thời gian dài. Khi đi khám định kỳ, bệnh nhân cần được theo dõi sát các chức năng cơ quan nào để phát hiện độc tính của thuốc?
+
+A. Dạ dày và ruột non.
+
+B. Khớp và xương.
+
+C. Phổi (viêm phổi), tuyến giáp, gan và da (sạm da).
+
+D. Thận và bàng quang.
+
+Nguồn: Nhóm III: Amiodaron – Trang 63
+
+
+
+Câu 32. Một bệnh nhân đang dùng Warfarin để dự phòng huyết khối tĩnh mạch. Bệnh nhân bị cảm, sốt và muốn tự mua thuốc giảm đau, hạ sốt. Bệnh nhân cần TUYỆT ĐỐI TRÁNH loại thuốc nào sau đây để không làm tăng nguy cơ xuất huyết?
+
+A. Paracetamol.
+
+B. Vitamin C.
+
+C. Aspirin và các NSAIDs.
+
+D. Men tiêu hóa.
+
+Nguồn: Thuốc chống đông đường uống – Trang 72
+
+
+
+Câu 33. Xét nghiệm sinh hóa máu của một nam thanh niên cho thấy chỉ số Triglycerid tăng rất cao, trong khi Cholesterol toàn phần và LDL bình thường. Nhóm thuốc nào sau đây là lựa chọn hàng đầu để điều trị cho bệnh nhân này?
+
+A. Resin (Cholestyramin).
+
+B. Ezetimib.
+
+C. Fibrat (Fenofibrat).
+
+D. Thuốc chẹn beta.
+
+Nguồn: Lựa chọn thuốc điều hòa rối loạn lipid – Trang 93
+
+
+
+Câu 34. Một bệnh nhân có tiền sử hen phế quản nay được chẩn đoán mắc thêm bệnh tăng huyết áp. Thuốc hạ huyết áp nào sau đây bị chống chỉ định tuyệt đối vì nguy cơ gây co thắt phế quản, làm bùng phát cơn hen?
+
+A. Nifedipin.
+
+B. Propranolol.
+
+C. Hydrochlorothiazid.
+
+D. Captopril.
+
+Nguồn: Thuốc chẹn beta (Chống chỉ định) – Trang 14
+
+
+
+Câu 35. Một bệnh nhân nam 55 tuổi nhập viện cấp cứu vì nhồi máu cơ tim cấp trong "thời gian vàng" (trước 6 giờ). Để làm tan nhanh cục huyết khối gây tắc nghẽn mạch vành, thuốc nào sau đây sẽ được chỉ định tiêm truyền?
+
+A. Vitamin K.
+
+B. Streptokinase.
+
+C. Cholestyramin.
+
+D. Digoxin.
+
+Nguồn: Thuốc phân giải fibrin – Trang 79
+
+
+
+PHẦN IV. VẬN DỤNG CAO (5 CÂU)
+
+
+
+Câu 36. Bệnh nhân bị rung nhĩ đang uống Warfarin để chống đông máu với chỉ số INR ổn định. Gần đây bệnh nhân bị loạn nhịp thất và được bác sĩ tim mạch kê thêm Amiodaron. Theo dược lý học, sự tương tác giữa hai thuốc này sẽ dẫn đến hệ quả gì trên lâm sàng và cần xử trí ra sao?
+
+A. Amiodaron làm giảm hấp thu Warfarin, cần tăng liều Warfarin.
+
+B. Amiodaron làm tăng tác dụng của Warfarin lên đến 100%, nguy cơ xuất huyết ồ ạt, BẮT BUỘC phải giảm liều Warfarin.
+
+C. Warfarin làm giảm chuyển hóa Amiodaron ở gan, gây độc gan cấp.
+
+D. Hai thuốc đối kháng nhau, làm tăng nguy cơ hình thành huyết khối, cần đổi sang Heparin.
+
+Nguồn: Nhóm III: Amiodaron (Tương tác thuốc) – Trang 63
+
+
+
+Câu 37. Bệnh nhân nam 60 tuổi đang dùng Nitroglycerin để dự phòng cơn đau thắt ngực. Bệnh nhân đồng thời bị rối loạn cương dương và tự ý sử dụng Sildenafil (chất ức chế phosphodiesterase loại 5). Sự kết hợp này bị chống chỉ định nghiêm ngặt vì lý do gì?
+
+A. Cả hai thuốc đều giải phóng quá mức ion Canxi, gây co cứng cơ tim.
+
+B. Tương tác thuốc làm tăng áp lực nội sọ đột ngột, gây xuất huyết não.
+
+C. Sildenafil ức chế sự thoái giáng cGMP, hiệp đồng với sự tăng cGMP do Nitrat tạo ra, dẫn đến tụt huyết áp trầm trọng và truy tim mạch.
+
+D. Nitroglycerin làm mất tác dụng của Sildenafil.
+
+Nguồn: Nitrat hữu cơ / Tương tác thuốc – Trang 46
+
+
+
+Câu 38. Bệnh nhân nam 55 tuổi bị Đái tháo đường type 2 kèm theo Tăng huyết áp. Xét nghiệm cho thấy bệnh nhân bắt đầu có protein niệu (tổn thương thận do tiểu đường). Thuốc hạ huyết áp nhóm Ức chế men chuyển (ACEI) được chỉ định ưu tiên. Tuy nhiên, trong quá trình dùng ACEI, chỉ số điện giải nào trong máu phải được theo dõi sát sao nhất để tránh nguy hiểm?
+
+A. Ion Canxi (Ca2+) vì thuốc làm giảm Canxi máu.
+
+B. Ion Natri (Na+) vì thuốc gây ứ đọng Natri nặng.
+
+C. Ion Kali (K+) vì ACEI làm giảm tiết aldosteron, gây giữ Kali, dễ dẫn đến Tăng kali máu ở bệnh nhân suy thận/đái tháo đường.
+
+D. Ion Magne (Mg2+) vì thuốc làm cạn kiệt Magne.
+
+Nguồn: Thuốc ức chế men chuyển (EACI) – Trang 26
+
+
+
+Câu 39. Một bệnh nhân đang điều trị bằng Atorvastatin (nhóm Statin) liều cao. Do bị nhiễm khuẩn hô hấp, bệnh nhân được kê thêm kháng sinh Erythromycin. Sau vài ngày, bệnh nhân phàn nàn bị đau nhức cơ bắp dữ dội toàn thân và nước tiểu chuyển màu nâu đen. Phân tích tác dụng phụ và tương tác thuốc, hiện tượng này là gì?
+
+A. Phản ứng dị ứng phản vệ chậm với Erythromycin.
+
+B. Tương tác làm tăng nồng độ Statin trong máu, dẫn đến biến chứng Tiêu cơ vân (rhabdomyolysis) gây suy thận cấp.
+
+C. Tác dụng phụ xuất huyết đường tiết niệu do Atorvastatin.
+
+D. Erythromycin làm Statin kết tủa ở mô cơ.
+
+Nguồn: Thuốc giảm tổng hợp lipid / Statin (ADR) – Trang 90
+
+
+
+Câu 40. Bệnh nhân dùng Quinidin (thuốc chống loạn nhịp nhóm IA) được theo dõi qua điện tâm đồ (ECG). Bác sĩ phát hiện khoảng QT trên ECG của bệnh nhân bị kéo dài đáng kể và lập tức ra lệnh ngưng thuốc. Lý do cốt lõi của quyết định ngưng thuốc này là gì?
+
+A. Quinidin làm giảm nhịp tim quá mức gây ngưng xoang.
+
+B. Kéo dài khoảng QT do Quinidin (kéo dài thời gian tái cực) là dấu hiệu cảnh báo sắp xảy ra loạn nhịp thất nguy hiểm gọi là "Xoắn đỉnh" (Torsades de pointes).
+
+C. Quinidin làm tăng huyết áp tâm thu đột biến khi QT kéo dài.
+
+D. Kéo dài QT chứng tỏ thuốc đã hết tác dụng và cần đổi sang Lidocain.
+
+Nguồn: Nhóm IA: Quinidin / Tác dụng không mong muốn – Trang 57
+
+
+
+
+
+ĐÁP ÁN VÀ GIẢI THÍCH CHI TIẾT
+
+
+
+Câu 01: B
+
+Giải thích: Theo slide, Huyết áp (HA) là áp lực của máu lên thành động mạch.
+
+Nguồn: Huyết áp – Trang 4
+
+
+
+Câu 02: C
+
+Giải thích: Lợi tiểu Thiazid (như Hydrochlorothiazid) được ghi chú rõ ràng là "lựa chọn hàng đầu" trong điều trị Tăng huyết áp.
+
+Nguồn: Thuốc lợi tiểu – Trang 8
+
+
+
+Câu 03: C
+
+Giải thích: Captopril là thuốc thuộc nhóm ức chế enzym chuyển angiotensin (ACEI). Losartan thuộc nhóm ARB, Amlodipin thuộc CCB, Propranolol thuộc nhóm chẹn beta.
+
+Nguồn: Thuốc điều trị tăng huyết áp – Trang 31
+
+
+
+Câu 04: B
+
+Giải thích: Glycosid tim (như Digoxin, Digitoxin) là thuốc trợ tim có tác dụng làm tăng sức (lực) co bóp của cơ tim (chữ "Mạnh" trong quy tắc 3R).
+
+Nguồn: Thuốc trợ tim – Trang 35, 36
+
+
+
+Câu 05: C
+
+Giải thích: Cơ chế của Nitrat hữu cơ là giải phóng NO, từ đó làm tăng cGMP nội bào, dẫn đến tác dụng giãn mọi cơ trơn (đặc biệt là giãn tĩnh mạch và động mạch).
+
+Nguồn: Nitrat hữu cơ – Trang 44
+
+
+
+Câu 06: D
+
+Giải thích: Theo phân loại Vaughan Williams, thuốc chống loạn nhịp Nhóm III (Amiodaron, Sotalol) có cơ chế là ức chế kênh K+, làm kéo dài thời gian tái cực.
+
+Nguồn: Phân loại thuốc chống loạn nhịp – Trang 56
+
+
+
+Câu 07: B
+
+Giải thích: Lidocain, Phenytoin, Tocainid thuộc Nhóm IB trong phân loại Vaughan Williams (ức chế kênh Na+, rút ngắn thời gian tái cực).
+
+Nguồn: Phân loại thuốc chống loạn nhịp – Trang 56
+
+
+
+Câu 08: B
+
+Giải thích: Vitamin K nằm trong nhóm "Thuốc làm đông máu toàn thân", có vai trò quan trọng trong việc hoạt hóa các yếu tố đông máu II, VII, IX, X ở gan.
+
+Nguồn: Thuốc làm đông máu – Trang 70
+
+
+
+Câu 09: C
+
+Giải thích: Heparin có bản chất là mucopolysaccharid, không hấp thu qua đường tiêu hóa nên chỉ dùng đường tiêm (tiêm tĩnh mạch IV, tiêm truyền hoặc tiêm dưới da SC vùng bụng).
+
+Nguồn: Thuốc chống đông máu / Thuốc chống đông đường tiêm – Trang 71, 74
+
+
+
+Câu 10: C
+
+Giải thích: Aspirin ở liều thấp (30 - 300 mg) có tác dụng ức chế men cyclooxygenase 1 (COX1), từ đó ức chế tạo Thromboxan A2, giúp chống kết tập tiểu cầu.
+
+Nguồn: Thuốc chống kết tập tiểu cầu – Trang 76
+
+
+
+Câu 11: B
+
+Giải thích: Dựa vào bảng phân loại Fredrickson, rối loạn lipid máu Type IIa có biểu hiện là tăng Cholesterol và tăng Lipoprotein LDL.
+
+Nguồn: Phân loại rối loạn lipid máu – Trang 81
+
+
+
+Câu 12: C
+
+Giải thích: Cholestyramin, Colestipol, Colesevelam thuộc nhóm Resin (nhựa gắn acid mật), nhóm thuốc giảm hấp thu và tăng thải trừ lipid.
+
+Nguồn: Thuốc điều trị rối loạn lipid máu – Trang 83
+
+
+
+Câu 13: C
+
+Giải thích: Nhóm Statin làm giảm tổng hợp lipid bằng cơ chế đối kháng cạnh tranh với enzyme HMG-CoA reductase nội sinh ở gan.
+
+Nguồn: Thuốc giảm tổng hợp lipid / Statin – Trang 88
+
+
+
+Câu 14: A
+
+Giải thích: Fenofibrat (thuộc nhóm Fibrat) làm tăng hoạt tính lipoprotein lipase, thủy phân TG trong VLDL. Lựa chọn ưu tiên cho bệnh nhân tăng Triglycerid máu.
+
+Nguồn: Thuốc giảm tổng hợp lipid / Fibrat – Trang 87, 93
+
+
+
+Câu 15: C
+
+Giải thích: Bảng thông số dược động học ghi rõ nồng độ có hiệu lực trong huyết tương của Digoxin là từ 0,5 đến 2 ng/ml.
+
+Nguồn: Bảng so sánh Digoxin và Digitoxin – Trang 38
+
+
+
+Câu 16: C
+
+Giải thích: Methyldopa vào não tạo chất trung gian giả (alpha-methyl norepinephrin), kích thích thụ thể alpha-2 ở trung ương, làm giảm phóng thích catecholamin ở hành tủy, dẫn đến hạ huyết áp.
+
+Nguồn: Thuốc huỷ giao cảm trung ương – Trang 10
+
+
+
+Câu 17: A
+
+Giải thích: Trái ngược với ACEI làm bất hoạt enzyme giáng hóa bradykinin, ARB chỉ phong bế thụ thể AT1 của angiotensin II mà không ảnh hưởng đến chuyển hóa bradykinin, do đó ít gây tích lũy bradykinin (PG) ở phổi, không gây ho khan.
+
+Nguồn: Thuốc ức chế angiotensin II tại receptor (ARB) – Trang 28
+
+
+
+Câu 18: B
+
+Giải thích: 3R bao gồm: Renforcer (Mạnh - Tăng sức co bóp cơ tim), Ralentir (Chậm - Ức chế dẫn truyền nút xoang làm giảm nhịp tim), Régulaliser (Điều hòa - Giảm dẫn truyền, tăng tính trơ).
+
+Nguồn: Glycosid tim – Trang 36
+
+
+
+Câu 19: B
+
+Giải thích: Nhóm DHP chủ yếu giãn mạch (vành và ngoại vi) làm giảm hậu gánh và tăng oxy. Nhóm Non-DHP ưu thế trên tim (giãn cơ tim, giảm co bóp, chậm nhịp) giúp giảm tiêu thụ oxy cơ tim. Phối hợp lại là cơ chế giảm đau thắt ngực.
+
+Nguồn: Thuốc chẹn kênh Calci – Trang 48
+
+
+
+Câu 20: D
+
+Giải thích: Coumarin và dẫn chất (Dicoumarol, Warfarin) có cấu trúc gần giống Vitamin K, chúng đối kháng Vitamin K bằng cách ức chế enzym epoxid-reductase, ngăn tổng hợp các yếu tố đông máu.
+
+Nguồn: Thuốc chống đông đường uống – Trang 72
+
+
+
+Câu 21: B
+
+Giải thích: Dihydropyridin (DHP) tác dụng ưu thế trên động mạch (làm giãn mạch), trong khi Non-DHP (Verapamil, Diltiazem) có tác dụng ưu thế trên cơ tim, làm giảm lực co bóp và chậm nhịp tim.
+
+Nguồn: Thuốc ức chế kênh calci (CCB) – Trang 22, 47
+
+
+
+Câu 22: C
+
+Giải thích: Clopidogrel ức chế receptor P2Y12 ADP trên bề mặt tiểu cầu, ngăn cản ADP gắn vào, từ đó cản trở quá trình hoạt hóa và kết tập tiểu cầu.
+
+Nguồn: Thuốc chống kết tập tiểu cầu – Trang 78
+
+
+
+Câu 23: B
+
+Giải thích: Hai tác dụng phụ nguy hiểm của Statin là tăng men gan (transaminase) và viêm cơ, tiêu cơ vân, suy thận cấp. Do đó bắt buộc phải xét nghiệm men gan trước, trong và sau thời gian sử dụng thuốc.
+
+Nguồn: Thuốc giảm tổng hợp lipid / Statin (ADR) – Trang 90
+
+
+
+Câu 24: D
+
+Giải thích: Dầu cá (Omega-3) có tác dụng đặc hiệu làm giảm Triglycerid và VLDL trong máu, nhưng lại ít hoặc không ảnh hưởng đáng kể đến chỉ số LDL và HDL.
+
+Nguồn: Thuốc giảm tổng hợp lipid / Acid béo chưa no – Trang 92
+
+
+
+Câu 25: A
+
+Giải thích: Protamin sulfat được chỉ định để cấp cứu ngộ độc Heparin (chảy máu quá mức do Heparin) với tỷ lệ đối kháng 1 mg Protamin trung hòa khoảng 100 đơn vị Heparin.
+
+Nguồn: Thuốc chống đông đường tiêm – Trang 75
+
+
+
+Câu 26: C
+
+Giải thích: Methyldopa (thuốc hủy giao cảm trung ương) được chỉ định an toàn cho bệnh nhân tăng huyết áp khi đang mang thai. ACEI và ARB chống chỉ định trong thai kỳ.
+
+Nguồn: Thuốc huỷ giao cảm trung ương – Trang 10, 26
+
+
+
+Câu 27: A
+
+Giải thích: Thuốc ức chế chọn lọc alpha-1 (như Prazosin, Tetrazosin) vừa có tác dụng giãn mạch hạ huyết áp, vừa làm giãn cơ trơn cổ bàng quang và tuyến tiền liệt, giúp bệnh nhân phì đại tuyến tiền liệt dễ đi tiểu.
+
+Nguồn: Thuốc ức chế a-adrenergic – Trang 16
+
+
+
+Câu 28: B
+
+Giải thích: Ho khan là tác dụng phụ điển hình của ACEI. Khi bệnh nhân không dung nạp ACEI do ho, bác sĩ thường chuyển sang nhóm ARB (Losartan, Valsartan) vì nhóm này có hiệu quả tương đương nhưng không gây ho khan do không ảnh hưởng đến bradykinin.
+
+Nguồn: Thuốc ức chế angiotensin II tại receptor (ARB) – Trang 28
+
+
+
+Câu 29: C
+
+Giải thích: Dobutamin là thuốc trợ tim không phải glycosid, tác dụng bằng cách cường giao cảm chọn lọc trên thụ thể beta-1, giúp tăng co bóp cơ tim cấp cứu trong suy tim cấp.
+
+Nguồn: Thuốc điều trị suy tim / Bảng tóm tắt – Trang 39
+
+
+
+Câu 30: B
+
+Giải thích: Nitroglycerin gây giãn mạch cực mạnh. Giãn mạch máu não gây đau nhói đầu; giãn mạch ngoại vi gây đỏ bừng mặt và tụt huyết áp thế đứng, nhịp tim nhanh phản xạ.
+
+Nguồn: Nitrat hữu cơ / Độc tính – Trang 46
+
+
+
+Câu 31: C
+
+Giải thích: Amiodaron có tính lipophilic cao, phân bố và tích lũy rộng rãi ở các mô. Độc tính dài hạn cần theo dõi bao gồm: viêm phổi (xơ phổi), rối loạn tuyến giáp (cường hoặc suy giáp do thuốc có iod), rối loạn chức năng gan và sạm da.
+
+Nguồn: Nhóm III: Amiodaron – Trang 63
+
+
+
+Câu 32: C
+
+Giải thích: Aspirin và các NSAIDs khác ức chế kết tập tiểu cầu và có nguy cơ loét dạ dày. Dùng chung với Warfarin (thuốc chống đông) sẽ làm tăng tác dụng của Warfarin, dẫn đến tương tác thuốc nghiêm trọng, tăng nguy cơ xuất huyết.
+
+Nguồn: Thuốc chống đông đường uống – Trang 72
+
+
+
+Câu 33: C
+
+Giải thích: Đối với bệnh nhân tăng Triglycerid máu đơn thuần, nhóm Fibrat (như Fenofibrat) hoặc acid béo chưa no là lựa chọn ưu tiên hàng đầu theo phác đồ điều trị rối loạn lipid máu.
+
+Nguồn: Lựa chọn thuốc điều hòa rối loạn lipid – Trang 93
+
+
+
+Câu 34: B
+
+Giải thích: Propranolol là thuốc chẹn beta-adrenergic không chọn lọc (chẹn cả beta-1 ở tim và beta-2 ở phế quản). Chẹn beta-2 sẽ gây co thắt phế quản, chống chỉ định tuyệt đối cho bệnh nhân hen suyễn.
+
+Nguồn: Thuốc chẹn beta (Chống chỉ định) – Trang 14
+
+
+
+Câu 35: B
+
+Giải thích: Nhồi máu cơ tim cấp trong thời gian vàng cần tái lập lưu thông dòng máu. Streptokinase là thuốc phân giải fibrin (tiêu sợi huyết), làm tan trực tiếp cục huyết khối đang bít tắc động mạch vành.
+
+Nguồn: Thuốc phân giải fibrin – Trang 79
+
+
+
+Câu 36: B
+
+Giải thích: Amiodaron là chất ức chế men gan mạnh. Khi dùng chung với Warfarin, nó làm giảm thanh thải Warfarin, đẩy nồng độ và tác dụng của Warfarin tăng vọt lên tới 100%. Bắt buộc phải giảm liều Warfarin và theo dõi INR gắt gao để tránh xuất huyết tiêu hóa/não.
+
+Nguồn: Nhóm III: Amiodaron (Tương tác thuốc) – Trang 63
+
+
+
+Câu 37: C
+
+Giải thích: Nitrat tạo ra NO kích thích guanylyl cyclase tăng sản xuất cGMP (gây giãn mạch). Sildenafil ức chế men PDE5 (men giáng hóa cGMP). Dùng chung hai thuốc này làm cGMP tăng vọt và không bị phá hủy, dẫn đến giãn mạch quá mức, tụt huyết áp nghiêm trọng có thể tử vong.
+
+Nguồn: Nitrat hữu cơ / Tương tác thuốc – Trang 46
+
+
+
+Câu 38: C
+
+Giải thích: ACEI ức chế hệ RAA, làm giảm tiết aldosteron. Thiếu aldosteron sẽ làm giảm thải Kali ở ống thận, gây giữ Kali máu. Ở bệnh nhân có bệnh thận tiểu đường, chức năng thải Kali đã kém, dùng ACEI có nguy cơ dẫn đến Tăng kali máu (Hyperkalemia) đe dọa loạn nhịp tim.
+
+Nguồn: Thuốc ức chế men chuyển (EACI) – Trang 26
+
+
+
+Câu 39: B
+
+Giải thích: Kháng sinh nhóm Macrolid (như Erythromycin) ức chế mạnh men chuyển hóa CYP3A4 ở gan. Atorvastatin cũng chuyển hóa qua men này. Ức chế men làm nồng độ Statin tăng cao đột ngột, gây độc tính trên cơ là tiêu cơ vân (rhabdomyolysis), giải phóng myoglobin làm nước tiểu đen và gây suy thận cấp.
+
+Nguồn: Thuốc giảm tổng hợp lipid / Statin (ADR) – Trang 90
+
+
+
+Câu 40: B
+
+Giải thích: Quinidin thuộc nhóm IA không chỉ ức chế kênh Na+ mà còn ức chế kênh K+, làm kéo dài thời gian điện thế hoạt động và thời gian tái cực (thể hiện bằng khoảng QT dài trên ECG). QT kéo dài là tiền đề sinh lý bệnh kích hoạt cơn nhịp nhanh thất đa hình nguy hiểm chết người gọi là Xoắn đỉnh (Torsades de pointes).
+
+Nguồn: Nhóm IA: Quinidin / Tác dụng không mong muốn – Trang 57
+
+
+
+

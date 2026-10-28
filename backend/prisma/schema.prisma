@@ -1,0 +1,91 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Chapter {
+  id            Int           @id @default(autoincrement())
+  name          String
+  description   String?
+  sort_order    Int           @default(0)
+  is_active     Boolean       @default(true)
+  is_sample     Boolean       @default(false)
+  created_at    DateTime      @default(now())
+  questions     Question[]
+  exam_attempts ExamAttempt[]
+}
+
+model Question {
+  id              Int             @id @default(autoincrement())
+  chapter_id      Int
+  content         String
+  question_type   String          // recognition, understanding, application, advanced_application
+  explanation     String?
+  source_ref      String?
+  is_active       Boolean         @default(true)
+  is_sample       Boolean         @default(false)
+  sort_order      Int             @default(0)
+  created_at      DateTime        @default(now())
+  updated_at      DateTime        @updatedAt
+  chapter         Chapter         @relation(fields: [chapter_id], references: [id], onDelete: Cascade)
+  options         Option[]
+  attempt_answers AttemptAnswer[]
+
+  @@index([chapter_id, is_active, question_type])
+}
+
+model Option {
+  id          Int      @id @default(autoincrement())
+  question_id Int
+  label       String   // A, B, C, D
+  content     String
+  is_correct  Boolean  @default(false)
+  question    Question @relation(fields: [question_id], references: [id], onDelete: Cascade)
+
+  @@index([question_id])
+}
+
+model ExamAttempt {
+  id                   String          @id @default(uuid())
+  anonymous_session_id String
+  exam_mode            String          // "chapter" | "comprehensive"
+  chapter_id           Int?
+  title                String
+  total_questions      Int
+  correct_count        Int             @default(0)
+  incorrect_count      Int             @default(0)
+  unanswered_count     Int             @default(0)
+  score                Float           @default(0)
+  accuracy_percent     Float           @default(0)
+  started_at           DateTime        @default(now())
+  completed_at         DateTime?
+  duration_seconds     Int             @default(0)
+  settings_snapshot    String          // JSON string
+  status               String          @default("in_progress") // "in_progress" | "completed"
+  chapter              Chapter?        @relation(fields: [chapter_id], references: [id], onDelete: SetNull)
+  attempt_answers      AttemptAnswer[]
+
+  @@index([anonymous_session_id, status, completed_at])
+}
+
+model AttemptAnswer {
+  id                      Int         @id @default(autoincrement())
+  attempt_id              String
+  question_id             Int?
+  selected_option_id      Int?
+  selected_label          String?
+  is_correct              Boolean     @default(false)
+  sort_order              Int         @default(0)
+  question_snapshot       String      // JSON string: { id, content, question_type, chapter_id, chapter_name, source_ref }
+  options_snapshot        String      // JSON string: [{ id, label, content, is_correct }]
+  correct_answer_snapshot String      // "A" | "B" | "C" | "D"
+  explanation_snapshot    String?
+  attempt                 ExamAttempt @relation(fields: [attempt_id], references: [id], onDelete: Cascade)
+  question                Question?   @relation(fields: [question_id], references: [id], onDelete: SetNull)
+
+  @@index([attempt_id, sort_order])
+}

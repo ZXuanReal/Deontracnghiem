@@ -1,0 +1,16 @@
+[
+  {
+    "chapter_name": "Chương Mẫu: Ôn Tập Nhanh Dược Lý",
+    "chapter_description": "Dữ liệu mẫu tách biệt để kiểm thử tính năng nhập JSON",
+    "content": "Sinh khả dụng (F) của đường tiêm tĩnh mạch (IV) thường có giá trị bao nhiêu?",
+    "question_type": "recognition",
+    "explanation": "Đường tiêm tĩnh mạch đưa thuốc trực tiếp vào tuần hoàn chung nên F xấp xỉ 1 (100%).",
+    "source_ref": "Dữ liệu mẫu kiểm thử",
+    "options": [
+      { "label": "A", "content": "Xấp xỉ 0,5 (50%)", "is_correct": false },
+      { "label": "B", "content": "Xấp xỉ 0,75 (75%)", "is_correct": false },
+      { "label": "C", "content": "Xấp xỉ 1 (100%)", "is_correct": true },
+      { "label": "D", "content": "Bằng 0", "is_correct": false }
+    ]
+  }
+]

@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/components/activeexamview.tsx","./src/components/examresultview.tsx","./src/components/examsetupview.tsx","./src/components/historyview.tsx","./src/components/homeview.tsx","./src/components/kittydecorations.tsx","./src/services/api.ts","./src/types/quiz.ts","./src/utils/formatters.ts"],"version":"5.9.3"}

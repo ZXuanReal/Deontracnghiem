@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    background-color: #FFF5F8;
+    color: #43313A;
+    font-family: 'Be Vietnam Pro', system-ui, -apple-system, sans-serif;
+    background-image: 
+      radial-gradient(circle at 15% 15%, rgba(248, 187, 208, 0.22) 0%, transparent 28%),
+      radial-gradient(circle at 85% 80%, rgba(236, 106, 154, 0.12) 0%, transparent 32%);
+    background-attachment: fixed;
+  }
+}
+
+/* Custom soft scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #FFF5F8;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #F8BBD0;
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #EC6A9A;
+}
+
+@keyframes floatSlow {
+  0%, 100% {
+    transform: translateY(0px) rotate(0deg);
+  }
+  50% {
+    transform: translateY(-4px) rotate(2deg);
+  }
+}
+
+.animate-float-slow {
+  animation: floatSlow 3.5s ease-in-out infinite;
+}

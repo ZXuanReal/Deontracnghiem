@@ -1,0 +1,13 @@
+{
+  "name": "hello-kitty-quiz-workspace",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Hello Kitty Quiz - Website Luyện Thi Trắc Nghiệm Online",
+  "scripts": {
+    "dev:backend": "npm --prefix backend run dev",
+    "dev:frontend": "npm --prefix frontend run dev",
+    "build": "npm --prefix backend run build && npm --prefix frontend run build",
+    "seed": "npm --prefix backend run seed",
+    "import:bank": "npm --prefix backend run import:bank"
+  }
+}
